@@ -1,0 +1,172 @@
+<DatasmithUnrealScene>
+	<Version>0.24</Version>
+	<SDKVersion>5.0.3</SDKVersion>
+	<Host>StdMaterial</Host>
+	<Application Vendor="Solidworks" ProductName="Solidworks" ProductVersion=""/>
+	<ResourcePath>C:/Users/Doctorwhom/Documents/Solidworks Projects/Personal Projects/Dresser_Parts</ResourcePath>
+	<User ID="0f76c0ab4948f98d85464c9f548f0210" OS="Windows 10 (22H2) [10.0.19045.2604]"/>
+	<StaticMesh name="Drawer_Handle-2_Mesh" label="Drawer_Handle-2_Mesh">
+		<file path="Dresser_Assembly_Assets/Drawer_Handle-2_Mesh.udsmesh"/>
+		<Size a="116.743576" x="40.639999" y="0.9525" z="2.8575"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="092bbd46ec93e0381c84d7bd6925a7f6"/>
+		<Material id="1768424835" name="matte_steel_1768424835_"/>
+	</StaticMesh>
+	<StaticMesh name="Drawer_Door-2_Mesh" label="Drawer_Door-2_Mesh">
+		<file path="Dresser_Assembly_Assets/Drawer_Door-2_Mesh.udsmesh"/>
+		<Size a="2180.696289" x="86.995003" y="20.32" z="1.905"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="82865701dbad560b8348efa30f098d12"/>
+		<Material id="879276698" name="polished_oak_2d_879276698_"/>
+	</StaticMesh>
+	<StaticMesh name="Drawer_Door-1_Mesh" label="Drawer_Door-1_Mesh">
+		<file path="Dresser_Assembly_Assets/Drawer_Door-1_Mesh.udsmesh"/>
+		<Size a="2180.696289" x="86.995003" y="20.32" z="1.905"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="82865701dbad560b8348efa30f098d12"/>
+		<Material id="879276698" name="polished_oak_2d_879276698_"/>
+	</StaticMesh>
+	<StaticMesh name="Drawer_Handle-1_Mesh" label="Drawer_Handle-1_Mesh">
+		<file path="Dresser_Assembly_Assets/Drawer_Handle-1_Mesh.udsmesh"/>
+		<Size a="116.743576" x="40.639999" y="0.9525" z="2.8575"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="092bbd46ec93e0381c84d7bd6925a7f6"/>
+		<Material id="1768424835" name="matte_steel_1768424835_"/>
+	</StaticMesh>
+	<StaticMesh name="Top_Panel-1_Mesh" label="Top_Panel-1_Mesh">
+		<file path="Dresser_Assembly_Assets/Top_Panel-1_Mesh.udsmesh"/>
+		<Size a="3662.318359" x="87.3125" y="1.905" z="36.512501"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a501d52acaa754e882a32a740d5cb4ce"/>
+		<Material id="879276698" name="polished_oak_2d_879276698_"/>
+	</StaticMesh>
+	<StaticMesh name="Side_Panel-1_Mesh" label="Side_Panel-1_Mesh">
+		<file path="Dresser_Assembly_Assets/Side_Panel-1_Mesh.udsmesh"/>
+		<Size a="16887.53125" x="0.47625" y="41.592499" z="36.829998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="20384f9b881486841ae03361a183082a"/>
+		<Material id="1768424835" name="matte_steel_1768424835_"/>
+	</StaticMesh>
+	<StaticMesh name="Side_Panel-2_Mesh" label="Side_Panel-2_Mesh">
+		<file path="Dresser_Assembly_Assets/Side_Panel-2_Mesh.udsmesh"/>
+		<Size a="16887.53125" x="0.47625" y="41.592499" z="36.829998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="20384f9b881486841ae03361a183082a"/>
+		<Material id="1768424835" name="matte_steel_1768424835_"/>
+	</StaticMesh>
+	<StaticMesh name="Top_Frame-1_Mesh" label="Top_Frame-1_Mesh">
+		<file path="Dresser_Assembly_Assets/Top_Frame-1_Mesh.udsmesh"/>
+		<Size a="28988.693359" x="91.439995" y="1.905" z="40.639999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a712f831eab3267e659c267682399668"/>
+		<Material id="1768424835" name="matte_steel_1768424835_"/>
+	</StaticMesh>
+	<StaticMesh name="Drawer_Body-2_Mesh" label="Drawer_Body-2_Mesh">
+		<file path="Dresser_Assembly_Assets/Drawer_Body-2_Mesh.udsmesh"/>
+		<Size a="33373.421875" x="85.407501" y="15.24" z="34.817051"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="09fe943793b872e2fc5dab17cf98ac53"/>
+		<Material id="1768424835" name="matte_steel_1768424835_"/>
+	</StaticMesh>
+	<StaticMesh name="Drawer_Body-1_Mesh" label="Drawer_Body-1_Mesh">
+		<file path="Dresser_Assembly_Assets/Drawer_Body-1_Mesh.udsmesh"/>
+		<Size a="33373.421875" x="85.407501" y="15.24" z="34.817051"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="09fe943793b872e2fc5dab17cf98ac53"/>
+		<Material id="1768424835" name="matte_steel_1768424835_"/>
+	</StaticMesh>
+	<StaticMesh name="Body_Frame-1_Mesh" label="Body_Frame-1_Mesh">
+		<file path="Dresser_Assembly_Assets/Body_Frame-1_Mesh.udsmesh"/>
+		<Size a="80505.0" x="91.439995" y="45.4025" z="40.639999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eb30c8e1ded1595c7b120d51c4a01049"/>
+		<Material id="1768424835" name="matte_steel_1768424835_"/>
+	</StaticMesh>
+	<Actor name="Dresser_Assembly" label="Dresser_Assembly">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+		<tag value="Dresser_Assembly" />
+		<children visible="true">
+			<ActorMesh name="Drawer_Handle-2" label="Drawer_Handle-2">
+				<mesh name="Drawer_Handle-2_Mesh"/>
+				<Transform tx="-0.0" ty="-20.320002" tz="-32.956497" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="93A54BA5F404353FF40435BF2EBD3BB3"/>
+				<tag value="Drawer_Handle-2" />
+			</ActorMesh>
+			<ActorMesh name="Side_Panel-2" label="Side_Panel-2">
+				<mesh name="Side_Panel-2_Mesh"/>
+				<Transform tx="-45.719997" ty="-0.000001" tz="-22.70125" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Side_Panel-2" />
+			</ActorMesh>
+			<ActorMesh name="Side_Panel-1" label="Side_Panel-1">
+				<mesh name="Side_Panel-1_Mesh"/>
+				<Transform tx="45.243748" ty="-0.000001" tz="-22.70125" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Side_Panel-1" />
+			</ActorMesh>
+			<ActorMesh name="Top_Panel-1" label="Top_Panel-1">
+				<mesh name="Top_Panel-1_Mesh"/>
+				<Transform tx="0.03175" ty="0.03175" tz="-0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Top_Panel-1" />
+			</ActorMesh>
+			<ActorMesh name="Drawer_Body-1" label="Drawer_Body-1">
+				<mesh name="Drawer_Body-1_Mesh"/>
+				<Transform tx="-0.03175" ty="-18.364201" tz="-19.748501" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Drawer_Body-1" />
+			</ActorMesh>
+			<ActorMesh name="Drawer_Door-1" label="Drawer_Door-1">
+				<mesh name="Drawer_Door-1_Mesh"/>
+				<Transform tx="0.0" ty="-20.32" tz="-12.445999" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Drawer_Door-1" />
+			</ActorMesh>
+			<ActorMesh name="Drawer_Door-2" label="Drawer_Door-2">
+				<mesh name="Drawer_Door-2_Mesh"/>
+				<Transform tx="0.0" ty="-20.320002" tz="-32.956497" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Drawer_Door-2" />
+			</ActorMesh>
+			<ActorMesh name="Drawer_Body-2" label="Drawer_Body-2">
+				<mesh name="Drawer_Body-2_Mesh"/>
+				<Transform tx="-0.03175" ty="-18.364202" tz="-40.258999" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Drawer_Body-2" />
+			</ActorMesh>
+			<ActorMesh name="Drawer_Handle-1" label="Drawer_Handle-1">
+				<mesh name="Drawer_Handle-1_Mesh"/>
+				<Transform tx="1.178217" ty="-20.32" tz="-12.445999" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="3246E2A4F404353FF40435BF2EBD3BB3"/>
+				<tag value="Drawer_Handle-1" />
+			</ActorMesh>
+			<ActorMesh name="Top_Frame-1" label="Top_Frame-1">
+				<mesh name="Top_Frame-1_Mesh"/>
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Top_Frame-1" />
+			</ActorMesh>
+			<ActorMesh name="Body_Frame-1" label="Body_Frame-1">
+				<mesh name="Body_Frame-1_Mesh"/>
+				<Transform tx="-0.0" ty="-0.000002" tz="-45.4025" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Body_Frame-1" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Texture name="polished_oak" label="polished_oak" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="1.000000" srgb="0" file="Dresser_Assembly_Assets/polished oak.jpg">
+		<Hash value="cc662856e81fdca24611ba20f08c3886"/>
+	</Texture>
+	<MasterMaterial name="matte_steel_1768424835_"  label="matte_steel_1768424835_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.650980,G=0.619608,B=0.588235,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.900000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="1.000000"/>
+	</MasterMaterial>
+	<MasterMaterial name="polished_oak_2d_879276698_"  label="polished_oak_2d_879276698_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.190000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="0.000000"/>
+		<KeyValueProperty name="ColorMap" type="Texture" val="polished_oak"/>
+	</MasterMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>

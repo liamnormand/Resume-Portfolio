@@ -1,0 +1,211 @@
+<DatasmithUnrealScene>
+	<Version>0.24</Version>
+	<SDKVersion>5.0.3</SDKVersion>
+	<Host>StdMaterial</Host>
+	<Application Vendor="Solidworks" ProductName="Solidworks" ProductVersion=""/>
+	<ResourcePath>C:/Users/Doctorwhom/Documents/Solidworks Projects/Personal Projects/Stock_Desk_Parts</ResourcePath>
+	<User ID="0f76c0ab4948f98d85464c9f548f0210" OS="Windows 10 (22H2) [10.0.19045.2604]"/>
+	<StaticMesh name="Drawer_Body-1_Mesh" label="Drawer_Body-1_Mesh">
+		<file path="Desk_Assembly_Assets/Drawer_Body-1_Mesh.udsmesh"/>
+		<Size a="10603.938477" x="42.227501" y="9.04875" z="29.844999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6b2d5a7a6641a1976d8962b9d9271482"/>
+		<Material id="1768424835" name="matte_steel_1768424835_"/>
+	</StaticMesh>
+	<StaticMesh name="Side_Panel_1-2_Mesh" label="Side_Panel_1-2_Mesh">
+		<file path="Desk_Assembly_Assets/Side_Panel_1-2_Mesh.udsmesh"/>
+		<Size a="628.983093" x="40.005001" y="10.795" z="1.905"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a3b4bf484e76e3387f62918b49854b05"/>
+		<Material id="879276698" name="polished_oak_2d_879276698_"/>
+	</StaticMesh>
+	<StaticMesh name="Desk_Top-1_Mesh" label="Desk_Top-1_Mesh">
+		<file path="Desk_Assembly_Assets/Desk_Top-1_Mesh.udsmesh"/>
+		<Size a="4603.789551" x="87.629997" y="1.905" z="46.672501"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="80b63ab1c531a2627d8b1b145800707b"/>
+		<Material id="879276698" name="polished_oak_2d_879276698_"/>
+	</StaticMesh>
+	<StaticMesh name="Front_Drawer_Panel-2_Mesh" label="Front_Drawer_Panel-2_Mesh">
+		<file path="Desk_Assembly_Assets/Front_Drawer_Panel-2_Mesh.udsmesh"/>
+		<Size a="684.924622" x="43.814999" y="10.795" z="1.905"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b556f060e0868999928a85b1ba5a3a9c"/>
+		<Material id="879276698" name="polished_oak_2d_879276698_"/>
+	</StaticMesh>
+	<StaticMesh name="Front_Panel_1-1_Mesh" label="Front_Panel_1-1_Mesh">
+		<file path="Desk_Assembly_Assets/Front_Panel_1-1_Mesh.udsmesh"/>
+		<Size a="280.503998" x="16.256001" y="10.795" z="1.905"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="09fb70a3bbcf16d8941487a4b53ba254"/>
+		<Material id="879276698" name="polished_oak_2d_879276698_"/>
+	</StaticMesh>
+	<StaticMesh name="Front_Drawer_Panel-1_Mesh" label="Front_Drawer_Panel-1_Mesh">
+		<file path="Desk_Assembly_Assets/Front_Drawer_Panel-1_Mesh.udsmesh"/>
+		<Size a="684.924622" x="43.814999" y="10.795" z="1.905"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b556f060e0868999928a85b1ba5a3a9c"/>
+		<Material id="879276698" name="polished_oak_2d_879276698_"/>
+	</StaticMesh>
+	<StaticMesh name="Front_Panel_1-3_Mesh" label="Front_Panel_1-3_Mesh">
+		<file path="Desk_Assembly_Assets/Front_Panel_1-3_Mesh.udsmesh"/>
+		<Size a="280.503998" x="16.256001" y="10.795" z="1.905"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="09fb70a3bbcf16d8941487a4b53ba254"/>
+		<Material id="879276698" name="polished_oak_2d_879276698_"/>
+	</StaticMesh>
+	<StaticMesh name="Front_Panel_1-2_Mesh" label="Front_Panel_1-2_Mesh">
+		<file path="Desk_Assembly_Assets/Front_Panel_1-2_Mesh.udsmesh"/>
+		<Size a="280.503998" x="16.256001" y="10.795" z="1.905"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="09fb70a3bbcf16d8941487a4b53ba254"/>
+		<Material id="879276698" name="polished_oak_2d_879276698_"/>
+	</StaticMesh>
+	<StaticMesh name="Side_Panel_1-1_Mesh" label="Side_Panel_1-1_Mesh">
+		<file path="Desk_Assembly_Assets/Side_Panel_1-1_Mesh.udsmesh"/>
+		<Size a="628.983093" x="40.005001" y="10.795" z="1.905"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a3b4bf484e76e3387f62918b49854b05"/>
+		<Material id="879276698" name="polished_oak_2d_879276698_"/>
+	</StaticMesh>
+	<StaticMesh name="Front_Panel_1-4_Mesh" label="Front_Panel_1-4_Mesh">
+		<file path="Desk_Assembly_Assets/Front_Panel_1-4_Mesh.udsmesh"/>
+		<Size a="280.503998" x="16.256001" y="10.795" z="1.905"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="09fb70a3bbcf16d8941487a4b53ba254"/>
+		<Material id="879276698" name="polished_oak_2d_879276698_"/>
+	</StaticMesh>
+	<StaticMesh name="Front_Drawer_Handle-1_Mesh" label="Front_Drawer_Handle-1_Mesh">
+		<file path="Desk_Assembly_Assets/Front_Drawer_Handle-1_Mesh.udsmesh"/>
+		<Size a="92.735306" x="31.75" y="0.9525" z="2.38125"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="68df872456f3eb144663fe19aee9da68"/>
+		<Material id="1768424835" name="matte_steel_1768424835_"/>
+	</StaticMesh>
+	<StaticMesh name="Desk_Leg-1_Mesh" label="Desk_Leg-1_Mesh">
+		<file path="Desk_Assembly_Assets/Desk_Leg-1_Mesh.udsmesh"/>
+		<Size a="9231.199219" x="4.921246" y="73.659996" z="50.800003"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6350fa04eceaec93bd487b96894f75d0"/>
+		<Material id="1768424835" name="matte_steel_1768424835_"/>
+	</StaticMesh>
+	<StaticMesh name="Desk_Leg-2_Mesh" label="Desk_Leg-2_Mesh">
+		<file path="Desk_Assembly_Assets/Desk_Leg-2_Mesh.udsmesh"/>
+		<Size a="9231.199219" x="4.921246" y="73.659996" z="50.800003"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6350fa04eceaec93bd487b96894f75d0"/>
+		<Material id="1768424835" name="matte_steel_1768424835_"/>
+	</StaticMesh>
+	<StaticMesh name="Desk_Frame-1_Mesh" label="Desk_Frame-1_Mesh">
+		<file path="Desk_Assembly_Assets/Desk_Frame-1_Mesh.udsmesh"/>
+		<Size a="58433.019531" x="91.439995" y="14.605" z="50.800003"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7fbcb7e20160cb179fe13105e1a946af"/>
+		<Material id="1768424835" name="matte_steel_1768424835_"/>
+	</StaticMesh>
+	<Actor name="Desk_Assembly" label="Desk_Assembly">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+		<tag value="Desk_Assembly" />
+		<children visible="true">
+			<ActorMesh name="Desk_Top-1" label="Desk_Top-1">
+				<mesh name="Desk_Top-1_Mesh"/>
+				<Transform tx="0.0" ty="-0.03175" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Desk_Top-1" />
+			</ActorMesh>
+			<ActorMesh name="Desk_Frame-1" label="Desk_Frame-1">
+				<mesh name="Desk_Frame-1_Mesh"/>
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Desk_Frame-1" />
+			</ActorMesh>
+			<ActorMesh name="Desk_Leg-1" label="Desk_Leg-1">
+				<mesh name="Desk_Leg-1_Mesh"/>
+				<Transform tx="0.0" ty="-0.000003" tz="-73.659996" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Desk_Leg-1" />
+			</ActorMesh>
+			<ActorMesh name="Front_Drawer_Handle-1" label="Front_Drawer_Handle-1">
+				<mesh name="Front_Drawer_Handle-1_Mesh"/>
+				<Transform tx="0.0635" ty="25.400002" tz="-5.397501" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Front_Drawer_Handle-1" />
+			</ActorMesh>
+			<ActorMesh name="Desk_Leg-2" label="Desk_Leg-2">
+				<mesh name="Desk_Leg-2_Mesh"/>
+				<Transform tx="86.518753" ty="-0.000003" tz="-73.659996" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Desk_Leg-2" />
+			</ActorMesh>
+			<ActorMesh name="Front_Drawer_Panel-1" label="Front_Drawer_Panel-1">
+				<mesh name="Front_Drawer_Panel-1_Mesh"/>
+				<Transform tx="-21.844" ty="23.495001" tz="-10.795001" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Front_Drawer_Panel-1" />
+			</ActorMesh>
+			<ActorMesh name="Front_Drawer_Panel-2" label="Front_Drawer_Panel-2">
+				<mesh name="Front_Drawer_Panel-2_Mesh"/>
+				<Transform tx="-21.971001" ty="-25.400002" tz="-10.794999" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Front_Drawer_Panel-2" />
+			</ActorMesh>
+			<ActorMesh name="Front_Panel_1-1" label="Front_Panel_1-1">
+				<mesh name="Front_Panel_1-1_Mesh"/>
+				<Transform tx="-24.130001" ty="-25.400002" tz="-10.794999" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Front_Panel_1-1" />
+			</ActorMesh>
+			<ActorMesh name="Front_Panel_1-4" label="Front_Panel_1-4">
+				<mesh name="Front_Panel_1-4_Mesh"/>
+				<Transform tx="40.481251" ty="23.495001" tz="-10.795001" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Front_Panel_1-4" />
+			</ActorMesh>
+			<ActorMesh name="Front_Panel_1-2" label="Front_Panel_1-2">
+				<mesh name="Front_Panel_1-2_Mesh"/>
+				<Transform tx="-24.22525" ty="23.495001" tz="-10.795001" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Front_Panel_1-2" />
+			</ActorMesh>
+			<ActorMesh name="Front_Panel_1-3" label="Front_Panel_1-3">
+				<mesh name="Front_Panel_1-3_Mesh"/>
+				<Transform tx="40.481251" ty="-25.400002" tz="-10.794999" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Front_Panel_1-3" />
+			</ActorMesh>
+			<ActorMesh name="Side_Panel_1-1" label="Side_Panel_1-1">
+				<mesh name="Side_Panel_1-1_Mesh"/>
+				<Transform tx="-43.814999" ty="-0.03175" tz="-5.3975" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="0.5" qw="0.5" qhex="000000BF000000BF0000003FFFFFFF3E"/>
+				<tag value="Side_Panel_1-1" />
+			</ActorMesh>
+			<ActorMesh name="Side_Panel_1-2" label="Side_Panel_1-2">
+				<mesh name="Side_Panel_1-2_Mesh"/>
+				<Transform tx="43.814999" ty="0.03175" tz="-5.3975" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="0.5" qz="-0.5" qw="0.5" qhex="000000BF0000003F000000BFFFFFFF3E"/>
+				<tag value="Side_Panel_1-2" />
+			</ActorMesh>
+			<ActorMesh name="Drawer_Body-1" label="Drawer_Body-1">
+				<mesh name="Drawer_Body-1_Mesh"/>
+				<Transform tx="0.22225" ty="23.495001" tz="-8.731251" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F404B5A3F404353FF40435BF2EBD3BB3"/>
+				<tag value="Drawer_Body-1" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Texture name="polished_oak" label="polished_oak" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="1.000000" srgb="0" file="Desk_Assembly_Assets/polished oak.jpg">
+		<Hash value="cc662856e81fdca24611ba20f08c3886"/>
+	</Texture>
+	<MasterMaterial name="matte_steel_1768424835_"  label="matte_steel_1768424835_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.650980,G=0.619608,B=0.588235,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.900000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="1.000000"/>
+	</MasterMaterial>
+	<MasterMaterial name="polished_oak_2d_879276698_"  label="polished_oak_2d_879276698_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.190000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="0.000000"/>
+		<KeyValueProperty name="ColorMap" type="Texture" val="polished_oak"/>
+	</MasterMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>

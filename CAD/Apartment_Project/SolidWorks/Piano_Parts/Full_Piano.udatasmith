@@ -1,0 +1,1609 @@
+<DatasmithUnrealScene>
+	<Version>0.24</Version>
+	<SDKVersion>5.0.3</SDKVersion>
+	<Host>StdMaterial</Host>
+	<Application Vendor="Solidworks" ProductName="Solidworks" ProductVersion=""/>
+	<ResourcePath>C:/Users/Doctorwhom/Documents/Solidworks Projects/Personal Projects/Piano_Parts</ResourcePath>
+	<User ID="0f76c0ab4948f98d85464c9f548f0210" OS="Windows 10 (22H2) [10.0.19045.3086]"/>
+	<StaticMesh name="Knob_Assembly_1-6_Knob_1_Dial_Piano-1_Mesh" label="Knob_Assembly_1-6_Knob_1_Dial_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Knob_Assembly_1-6_Knob_1_Dial_Piano-1_Mesh.udsmesh"/>
+		<Size a="0.019994" x="0.231682" y="0.0254" z="0.053882"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eef53a9b579f289138da1a28b7f4a5a3"/>
+		<Material id="1027945414" name="White-PW-MT11050_1027945414_"/>
+	</StaticMesh>
+	<StaticMesh name="Knob_Assembly_1-6_Knob_1_Piano-1_Mesh" label="Knob_Assembly_1-6_Knob_1_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Knob_Assembly_1-6_Knob_1_Piano-1_Mesh.udsmesh"/>
+		<Size a="7.533034" x="1.029353" y="1.27" z="1.031251"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="56b4240bf519d17b6951f7160cf17d6f"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_3_Piano-9_Mesh" label="Button_3_Piano-9_Mesh">
+		<file path="Full_Piano_Assets/Button_3_Piano-9_Mesh.udsmesh"/>
+		<Size a="6.420464" x="1.031875" y="0.59631" z="0.555625"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="acb0388cc7158fd16e57120a5c3d98c5"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Knob_Assembly_1-4_Knob_1_Dial_Piano-1_Mesh" label="Knob_Assembly_1-4_Knob_1_Dial_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Knob_Assembly_1-4_Knob_1_Dial_Piano-1_Mesh.udsmesh"/>
+		<Size a="0.019994" x="0.231682" y="0.0254" z="0.053882"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eef53a9b579f289138da1a28b7f4a5a3"/>
+		<Material id="1027945414" name="White-PW-MT11050_1027945414_"/>
+	</StaticMesh>
+	<StaticMesh name="Knob_Assembly_1-4_Knob_1_Piano-1_Mesh" label="Knob_Assembly_1-4_Knob_1_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Knob_Assembly_1-4_Knob_1_Piano-1_Mesh.udsmesh"/>
+		<Size a="7.533034" x="1.029353" y="1.27" z="1.031251"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="56b4240bf519d17b6951f7160cf17d6f"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Knob_Assembly_1-3_Knob_1_Dial_Piano-1_Mesh" label="Knob_Assembly_1-3_Knob_1_Dial_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Knob_Assembly_1-3_Knob_1_Dial_Piano-1_Mesh.udsmesh"/>
+		<Size a="0.019994" x="0.231682" y="0.0254" z="0.053882"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eef53a9b579f289138da1a28b7f4a5a3"/>
+		<Material id="1027945414" name="White-PW-MT11050_1027945414_"/>
+	</StaticMesh>
+	<StaticMesh name="Knob_Assembly_1-3_Knob_1_Piano-1_Mesh" label="Knob_Assembly_1-3_Knob_1_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Knob_Assembly_1-3_Knob_1_Piano-1_Mesh.udsmesh"/>
+		<Size a="7.533034" x="1.029353" y="1.27" z="1.031251"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="56b4240bf519d17b6951f7160cf17d6f"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_1_Piano-3_Mesh" label="Button_1_Piano-3_Mesh">
+		<file path="Full_Piano_Assets/Button_1_Piano-3_Mesh.udsmesh"/>
+		<Size a="8.097498" x="1.825625" y="0.491547" z="0.396875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2dfbc0a99ec0f94863bfa836a77ea44"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_1_Piano-4_Mesh" label="Button_1_Piano-4_Mesh">
+		<file path="Full_Piano_Assets/Button_1_Piano-4_Mesh.udsmesh"/>
+		<Size a="8.097498" x="1.825625" y="0.491547" z="0.396875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2dfbc0a99ec0f94863bfa836a77ea44"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_1_Piano-7_Mesh" label="Button_1_Piano-7_Mesh">
+		<file path="Full_Piano_Assets/Button_1_Piano-7_Mesh.udsmesh"/>
+		<Size a="8.097498" x="1.825625" y="0.491547" z="0.396875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2dfbc0a99ec0f94863bfa836a77ea44"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_1_Piano-6_Mesh" label="Button_1_Piano-6_Mesh">
+		<file path="Full_Piano_Assets/Button_1_Piano-6_Mesh.udsmesh"/>
+		<Size a="8.097498" x="1.825625" y="0.491547" z="0.396875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2dfbc0a99ec0f94863bfa836a77ea44"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_1_Piano-2_Mesh" label="Button_1_Piano-2_Mesh">
+		<file path="Full_Piano_Assets/Button_1_Piano-2_Mesh.udsmesh"/>
+		<Size a="8.097498" x="1.825625" y="0.491547" z="0.396875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2dfbc0a99ec0f94863bfa836a77ea44"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_1_Piano-9_Mesh" label="Button_1_Piano-9_Mesh">
+		<file path="Full_Piano_Assets/Button_1_Piano-9_Mesh.udsmesh"/>
+		<Size a="8.097498" x="1.825625" y="0.491547" z="0.396875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2dfbc0a99ec0f94863bfa836a77ea44"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_1_Piano-8_Mesh" label="Button_1_Piano-8_Mesh">
+		<file path="Full_Piano_Assets/Button_1_Piano-8_Mesh.udsmesh"/>
+		<Size a="8.097498" x="1.825625" y="0.491547" z="0.396875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2dfbc0a99ec0f94863bfa836a77ea44"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_1_Piano-5_Mesh" label="Button_1_Piano-5_Mesh">
+		<file path="Full_Piano_Assets/Button_1_Piano-5_Mesh.udsmesh"/>
+		<Size a="8.097498" x="1.825625" y="0.491547" z="0.396875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2dfbc0a99ec0f94863bfa836a77ea44"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_2_Piano-12_Mesh" label="Button_2_Piano-12_Mesh">
+		<file path="Full_Piano_Assets/Button_2_Piano-12_Mesh.udsmesh"/>
+		<Size a="19.664513" x="1.825625" y="0.548643" z="1.5875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="786d3f61f6560065b1d5f9b229743c6f"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_3_Piano-3_Mesh" label="Button_3_Piano-3_Mesh">
+		<file path="Full_Piano_Assets/Button_3_Piano-3_Mesh.udsmesh"/>
+		<Size a="6.420464" x="1.031875" y="0.59631" z="0.555625"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="acb0388cc7158fd16e57120a5c3d98c5"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_2_Piano-14_Mesh" label="Button_2_Piano-14_Mesh">
+		<file path="Full_Piano_Assets/Button_2_Piano-14_Mesh.udsmesh"/>
+		<Size a="19.664513" x="1.825625" y="0.548643" z="1.5875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="786d3f61f6560065b1d5f9b229743c6f"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_3_Piano-2_Mesh" label="Button_3_Piano-2_Mesh">
+		<file path="Full_Piano_Assets/Button_3_Piano-2_Mesh.udsmesh"/>
+		<Size a="6.420464" x="1.031875" y="0.59631" z="0.555625"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="acb0388cc7158fd16e57120a5c3d98c5"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_3_Piano-7_Mesh" label="Button_3_Piano-7_Mesh">
+		<file path="Full_Piano_Assets/Button_3_Piano-7_Mesh.udsmesh"/>
+		<Size a="6.420464" x="1.031875" y="0.59631" z="0.555625"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="acb0388cc7158fd16e57120a5c3d98c5"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_2_Piano-13_Mesh" label="Button_2_Piano-13_Mesh">
+		<file path="Full_Piano_Assets/Button_2_Piano-13_Mesh.udsmesh"/>
+		<Size a="19.664513" x="1.825625" y="0.548643" z="1.5875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="786d3f61f6560065b1d5f9b229743c6f"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_3_Piano-5_Mesh" label="Button_3_Piano-5_Mesh">
+		<file path="Full_Piano_Assets/Button_3_Piano-5_Mesh.udsmesh"/>
+		<Size a="6.420464" x="1.031875" y="0.59631" z="0.555625"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="acb0388cc7158fd16e57120a5c3d98c5"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_2_Piano-11_Mesh" label="Button_2_Piano-11_Mesh">
+		<file path="Full_Piano_Assets/Button_2_Piano-11_Mesh.udsmesh"/>
+		<Size a="19.664513" x="1.825625" y="0.548643" z="1.5875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="786d3f61f6560065b1d5f9b229743c6f"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_3_Piano-4_Mesh" label="Button_3_Piano-4_Mesh">
+		<file path="Full_Piano_Assets/Button_3_Piano-4_Mesh.udsmesh"/>
+		<Size a="6.420464" x="1.031875" y="0.59631" z="0.555625"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="acb0388cc7158fd16e57120a5c3d98c5"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_2_Piano-7_Mesh" label="Button_2_Piano-7_Mesh">
+		<file path="Full_Piano_Assets/Button_2_Piano-7_Mesh.udsmesh"/>
+		<Size a="19.664513" x="1.825625" y="0.548643" z="1.5875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="786d3f61f6560065b1d5f9b229743c6f"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_3_Piano-8_Mesh" label="Button_3_Piano-8_Mesh">
+		<file path="Full_Piano_Assets/Button_3_Piano-8_Mesh.udsmesh"/>
+		<Size a="6.420464" x="1.031875" y="0.59631" z="0.555625"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="acb0388cc7158fd16e57120a5c3d98c5"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_1_Piano-1_Mesh" label="Button_1_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Button_1_Piano-1_Mesh.udsmesh"/>
+		<Size a="8.097498" x="1.825625" y="0.491547" z="0.396875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2dfbc0a99ec0f94863bfa836a77ea44"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_2_Piano-3_Mesh" label="Button_2_Piano-3_Mesh">
+		<file path="Full_Piano_Assets/Button_2_Piano-3_Mesh.udsmesh"/>
+		<Size a="19.664513" x="1.825625" y="0.548643" z="1.5875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="786d3f61f6560065b1d5f9b229743c6f"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_3_Piano-6_Mesh" label="Button_3_Piano-6_Mesh">
+		<file path="Full_Piano_Assets/Button_3_Piano-6_Mesh.udsmesh"/>
+		<Size a="6.420464" x="1.031875" y="0.59631" z="0.555625"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="acb0388cc7158fd16e57120a5c3d98c5"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Main_Keyboard_Frame-1_Mesh" label="Main_Keyboard_Frame-1_Mesh">
+		<file path="Full_Piano_Assets/Main_Keyboard_Frame-1_Mesh.udsmesh"/>
+		<Size a="31308.027344" x="128.428757" y="14.012123" z="25.400002"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6855d598ef368a2f9dc8adacddfd3d89"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_2_Piano-4_Mesh" label="Button_2_Piano-4_Mesh">
+		<file path="Full_Piano_Assets/Button_2_Piano-4_Mesh.udsmesh"/>
+		<Size a="19.664513" x="1.825625" y="0.548643" z="1.5875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="786d3f61f6560065b1d5f9b229743c6f"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Knob_Assembly_1-1_Knob_1_Dial_Piano-1_Mesh" label="Knob_Assembly_1-1_Knob_1_Dial_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Knob_Assembly_1-1_Knob_1_Dial_Piano-1_Mesh.udsmesh"/>
+		<Size a="0.019994" x="0.231682" y="0.0254" z="0.053882"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eef53a9b579f289138da1a28b7f4a5a3"/>
+		<Material id="1027945414" name="White-PW-MT11050_1027945414_"/>
+	</StaticMesh>
+	<StaticMesh name="Knob_Assembly_1-1_Knob_1_Piano-1_Mesh" label="Knob_Assembly_1-1_Knob_1_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Knob_Assembly_1-1_Knob_1_Piano-1_Mesh.udsmesh"/>
+		<Size a="7.533034" x="1.029353" y="1.27" z="1.031251"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="56b4240bf519d17b6951f7160cf17d6f"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Knob_Assembly_1-7_Knob_1_Dial_Piano-1_Mesh" label="Knob_Assembly_1-7_Knob_1_Dial_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Knob_Assembly_1-7_Knob_1_Dial_Piano-1_Mesh.udsmesh"/>
+		<Size a="0.019994" x="0.231682" y="0.0254" z="0.053882"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eef53a9b579f289138da1a28b7f4a5a3"/>
+		<Material id="1027945414" name="White-PW-MT11050_1027945414_"/>
+	</StaticMesh>
+	<StaticMesh name="Knob_Assembly_1-7_Knob_1_Piano-1_Mesh" label="Knob_Assembly_1-7_Knob_1_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Knob_Assembly_1-7_Knob_1_Piano-1_Mesh.udsmesh"/>
+		<Size a="7.533034" x="1.029353" y="1.27" z="1.031251"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="56b4240bf519d17b6951f7160cf17d6f"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Knob_Assembly_1-2_Knob_1_Dial_Piano-1_Mesh" label="Knob_Assembly_1-2_Knob_1_Dial_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Knob_Assembly_1-2_Knob_1_Dial_Piano-1_Mesh.udsmesh"/>
+		<Size a="0.019994" x="0.231682" y="0.0254" z="0.053882"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eef53a9b579f289138da1a28b7f4a5a3"/>
+		<Material id="1027945414" name="White-PW-MT11050_1027945414_"/>
+	</StaticMesh>
+	<StaticMesh name="Knob_Assembly_1-2_Knob_1_Piano-1_Mesh" label="Knob_Assembly_1-2_Knob_1_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Knob_Assembly_1-2_Knob_1_Piano-1_Mesh.udsmesh"/>
+		<Size a="7.533034" x="1.029353" y="1.27" z="1.031251"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="56b4240bf519d17b6951f7160cf17d6f"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_1_Piano-19_Mesh" label="Button_1_Piano-19_Mesh">
+		<file path="Full_Piano_Assets/Button_1_Piano-19_Mesh.udsmesh"/>
+		<Size a="8.097498" x="1.825625" y="0.491547" z="0.396875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2dfbc0a99ec0f94863bfa836a77ea44"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_1_Piano-15_Mesh" label="Button_1_Piano-15_Mesh">
+		<file path="Full_Piano_Assets/Button_1_Piano-15_Mesh.udsmesh"/>
+		<Size a="8.097498" x="1.825625" y="0.491547" z="0.396875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2dfbc0a99ec0f94863bfa836a77ea44"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_1_Piano-11_Mesh" label="Button_1_Piano-11_Mesh">
+		<file path="Full_Piano_Assets/Button_1_Piano-11_Mesh.udsmesh"/>
+		<Size a="8.097498" x="1.825625" y="0.491547" z="0.396875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2dfbc0a99ec0f94863bfa836a77ea44"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Knob_Assembly_1-5_Knob_1_Dial_Piano-1_Mesh" label="Knob_Assembly_1-5_Knob_1_Dial_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Knob_Assembly_1-5_Knob_1_Dial_Piano-1_Mesh.udsmesh"/>
+		<Size a="0.019994" x="0.231682" y="0.0254" z="0.053882"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eef53a9b579f289138da1a28b7f4a5a3"/>
+		<Material id="1027945414" name="White-PW-MT11050_1027945414_"/>
+	</StaticMesh>
+	<StaticMesh name="Knob_Assembly_1-5_Knob_1_Piano-1_Mesh" label="Knob_Assembly_1-5_Knob_1_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Knob_Assembly_1-5_Knob_1_Piano-1_Mesh.udsmesh"/>
+		<Size a="7.533034" x="1.029353" y="1.27" z="1.031251"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="56b4240bf519d17b6951f7160cf17d6f"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_1_Piano-16_Mesh" label="Button_1_Piano-16_Mesh">
+		<file path="Full_Piano_Assets/Button_1_Piano-16_Mesh.udsmesh"/>
+		<Size a="8.097498" x="1.825625" y="0.491547" z="0.396875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2dfbc0a99ec0f94863bfa836a77ea44"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_1_Piano-17_Mesh" label="Button_1_Piano-17_Mesh">
+		<file path="Full_Piano_Assets/Button_1_Piano-17_Mesh.udsmesh"/>
+		<Size a="8.097498" x="1.825625" y="0.491547" z="0.396875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2dfbc0a99ec0f94863bfa836a77ea44"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_1_Piano-14_Mesh" label="Button_1_Piano-14_Mesh">
+		<file path="Full_Piano_Assets/Button_1_Piano-14_Mesh.udsmesh"/>
+		<Size a="8.097498" x="1.825625" y="0.491547" z="0.396875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2dfbc0a99ec0f94863bfa836a77ea44"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_1_Piano-13_Mesh" label="Button_1_Piano-13_Mesh">
+		<file path="Full_Piano_Assets/Button_1_Piano-13_Mesh.udsmesh"/>
+		<Size a="8.097498" x="1.825625" y="0.491547" z="0.396875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2dfbc0a99ec0f94863bfa836a77ea44"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_1_Piano-12_Mesh" label="Button_1_Piano-12_Mesh">
+		<file path="Full_Piano_Assets/Button_1_Piano-12_Mesh.udsmesh"/>
+		<Size a="8.097498" x="1.825625" y="0.491547" z="0.396875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2dfbc0a99ec0f94863bfa836a77ea44"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_1_Piano-18_Mesh" label="Button_1_Piano-18_Mesh">
+		<file path="Full_Piano_Assets/Button_1_Piano-18_Mesh.udsmesh"/>
+		<Size a="8.097498" x="1.825625" y="0.491547" z="0.396875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2dfbc0a99ec0f94863bfa836a77ea44"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Knob_Assembly_1-8_Knob_1_Dial_Piano-1_Mesh" label="Knob_Assembly_1-8_Knob_1_Dial_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Knob_Assembly_1-8_Knob_1_Dial_Piano-1_Mesh.udsmesh"/>
+		<Size a="0.019994" x="0.231682" y="0.0254" z="0.053882"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eef53a9b579f289138da1a28b7f4a5a3"/>
+		<Material id="1027945414" name="White-PW-MT11050_1027945414_"/>
+	</StaticMesh>
+	<StaticMesh name="Knob_Assembly_1-8_Knob_1_Piano-1_Mesh" label="Knob_Assembly_1-8_Knob_1_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Knob_Assembly_1-8_Knob_1_Piano-1_Mesh.udsmesh"/>
+		<Size a="7.533034" x="1.029353" y="1.27" z="1.031251"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="56b4240bf519d17b6951f7160cf17d6f"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_1_Piano-10_Mesh" label="Button_1_Piano-10_Mesh">
+		<file path="Full_Piano_Assets/Button_1_Piano-10_Mesh.udsmesh"/>
+		<Size a="8.097498" x="1.825625" y="0.491547" z="0.396875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2dfbc0a99ec0f94863bfa836a77ea44"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Wheel_Things_Piano-1_Mesh" label="Wheel_Things_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Wheel_Things_Piano-1_Mesh.udsmesh"/>
+		<Size a="22.832928" x="1.11125" y="3.704166" z="3.805142"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="961d114dd433b701f98a1090c2505e6a"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Wheel_Things_Piano-2_Mesh" label="Wheel_Things_Piano-2_Mesh">
+		<file path="Full_Piano_Assets/Wheel_Things_Piano-2_Mesh.udsmesh"/>
+		<Size a="22.832928" x="1.11125" y="3.704166" z="3.805142"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="961d114dd433b701f98a1090c2505e6a"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Felt_Piece-1_Mesh" label="Felt_Piece-1_Mesh">
+		<file path="Full_Piano_Assets/Felt_Piece-1_Mesh.udsmesh"/>
+		<Size a="196.320236" x="123.666252" y="0.079375" z="0.555625"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="197c1b1f12a227fced75f554be53f5f4"/>
+		<Material id="1025938553" name="glossy_rubber_1025938553_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_2_Piano-5_Mesh" label="Button_2_Piano-5_Mesh">
+		<file path="Full_Piano_Assets/Button_2_Piano-5_Mesh.udsmesh"/>
+		<Size a="19.664513" x="1.825625" y="0.548643" z="1.5875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="786d3f61f6560065b1d5f9b229743c6f"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Screen_Piano-1_Mesh" label="Screen_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Screen_Piano-1_Mesh.udsmesh"/>
+		<Size a="38.716862" x="7.3025" y="0.3175" z="4.28625"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e21d7ae1573570732a833c7fa94bad15"/>
+		<Material id="612257883" name="Polycarbonate_612257883_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_2_Piano-1_Mesh" label="Button_2_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Button_2_Piano-1_Mesh.udsmesh"/>
+		<Size a="19.664513" x="1.825625" y="0.548643" z="1.5875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="786d3f61f6560065b1d5f9b229743c6f"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Black_Key-1_Mesh" label="Keyboard_Assembly-1_Black_Key-1_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Black_Key-1_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Right_Keyboard_End-1_Mesh" label="Keyboard_Assembly-1_Right_Keyboard_End-1_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Right_Keyboard_End-1_Mesh.udsmesh"/>
+		<Size a="138.126312" x="2.2225" y="3.175" z="15.398749"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3302edfff3f87a3b1f6b7843c7ef3a98"/>
+		<Material id="1027945414" name="White-PW-MT11050_1027945414_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-3_Black_Key-4_Mesh" label="Keyboard_Assembly-1_Octave-3_Black_Key-4_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-3_Black_Key-4_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-3_Black_Key-3_Mesh" label="Keyboard_Assembly-1_Octave-3_Black_Key-3_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-3_Black_Key-3_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-3_Black_Key-2_Mesh" label="Keyboard_Assembly-1_Octave-3_Black_Key-2_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-3_Black_Key-2_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-3_C_E_White_Keys-1_Mesh" label="Keyboard_Assembly-1_Octave-3_C_E_White_Keys-1_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-3_C_E_White_Keys-1_Mesh.udsmesh"/>
+		<Size a="1161.595947" x="16.51" y="3.175" z="15.398749"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4d07022ffb221f65829ec9a544e8f40e"/>
+		<Material id="1027945414" name="White-PW-MT11050_1027945414_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-3_Black_Key-1_Mesh" label="Keyboard_Assembly-1_Octave-3_Black_Key-1_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-3_Black_Key-1_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-3_Black_Key-5_Mesh" label="Keyboard_Assembly-1_Octave-3_Black_Key-5_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-3_Black_Key-5_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-8_Black_Key-4_Mesh" label="Keyboard_Assembly-1_Octave-8_Black_Key-4_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-8_Black_Key-4_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-8_Black_Key-3_Mesh" label="Keyboard_Assembly-1_Octave-8_Black_Key-3_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-8_Black_Key-3_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-8_Black_Key-2_Mesh" label="Keyboard_Assembly-1_Octave-8_Black_Key-2_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-8_Black_Key-2_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-8_C_E_White_Keys-1_Mesh" label="Keyboard_Assembly-1_Octave-8_C_E_White_Keys-1_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-8_C_E_White_Keys-1_Mesh.udsmesh"/>
+		<Size a="1161.595947" x="16.51" y="3.175" z="15.398749"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4d07022ffb221f65829ec9a544e8f40e"/>
+		<Material id="1027945414" name="White-PW-MT11050_1027945414_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-8_Black_Key-1_Mesh" label="Keyboard_Assembly-1_Octave-8_Black_Key-1_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-8_Black_Key-1_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-8_Black_Key-5_Mesh" label="Keyboard_Assembly-1_Octave-8_Black_Key-5_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-8_Black_Key-5_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Left_Keyboard_End-1_Mesh" label="Keyboard_Assembly-1_Left_Keyboard_End-1_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Left_Keyboard_End-1_Mesh.udsmesh"/>
+		<Size a="286.404938" x="4.60375" y="3.175" z="15.557501"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="dff1d09773fa70a4d380fcbc986dd07b"/>
+		<Material id="1027945414" name="White-PW-MT11050_1027945414_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-6_Black_Key-4_Mesh" label="Keyboard_Assembly-1_Octave-6_Black_Key-4_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-6_Black_Key-4_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-6_Black_Key-3_Mesh" label="Keyboard_Assembly-1_Octave-6_Black_Key-3_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-6_Black_Key-3_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-6_Black_Key-2_Mesh" label="Keyboard_Assembly-1_Octave-6_Black_Key-2_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-6_Black_Key-2_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-6_C_E_White_Keys-1_Mesh" label="Keyboard_Assembly-1_Octave-6_C_E_White_Keys-1_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-6_C_E_White_Keys-1_Mesh.udsmesh"/>
+		<Size a="1161.595947" x="16.51" y="3.175" z="15.398749"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4d07022ffb221f65829ec9a544e8f40e"/>
+		<Material id="1027945414" name="White-PW-MT11050_1027945414_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-6_Black_Key-1_Mesh" label="Keyboard_Assembly-1_Octave-6_Black_Key-1_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-6_Black_Key-1_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-6_Black_Key-5_Mesh" label="Keyboard_Assembly-1_Octave-6_Black_Key-5_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-6_Black_Key-5_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_3_Piano-1_Mesh" label="Button_3_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Button_3_Piano-1_Mesh.udsmesh"/>
+		<Size a="6.420464" x="1.031875" y="0.59631" z="0.555625"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="acb0388cc7158fd16e57120a5c3d98c5"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Knob_Assembly_1-9_Knob_1_Dial_Piano-1_Mesh" label="Knob_Assembly_1-9_Knob_1_Dial_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Knob_Assembly_1-9_Knob_1_Dial_Piano-1_Mesh.udsmesh"/>
+		<Size a="0.019994" x="0.231682" y="0.0254" z="0.053882"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eef53a9b579f289138da1a28b7f4a5a3"/>
+		<Material id="1027945414" name="White-PW-MT11050_1027945414_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-5_Black_Key-4_Mesh" label="Keyboard_Assembly-1_Octave-5_Black_Key-4_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-5_Black_Key-4_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-2_Black_Key-4_Mesh" label="Keyboard_Assembly-1_Octave-2_Black_Key-4_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-2_Black_Key-4_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-4_Black_Key-5_Mesh" label="Keyboard_Assembly-1_Octave-4_Black_Key-5_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-4_Black_Key-5_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-7_Black_Key-4_Mesh" label="Keyboard_Assembly-1_Octave-7_Black_Key-4_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-7_Black_Key-4_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-5_Black_Key-2_Mesh" label="Keyboard_Assembly-1_Octave-5_Black_Key-2_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-5_Black_Key-2_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-7_Black_Key-5_Mesh" label="Keyboard_Assembly-1_Octave-7_Black_Key-5_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-7_Black_Key-5_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-7_Black_Key-2_Mesh" label="Keyboard_Assembly-1_Octave-7_Black_Key-2_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-7_Black_Key-2_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-4_Black_Key-4_Mesh" label="Keyboard_Assembly-1_Octave-4_Black_Key-4_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-4_Black_Key-4_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-1_Black_Key-5_Mesh" label="Keyboard_Assembly-1_Octave-1_Black_Key-5_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-1_Black_Key-5_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-2_Black_Key-3_Mesh" label="Keyboard_Assembly-1_Octave-2_Black_Key-3_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-2_Black_Key-3_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-4_Black_Key-1_Mesh" label="Keyboard_Assembly-1_Octave-4_Black_Key-1_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-4_Black_Key-1_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-2_Black_Key-2_Mesh" label="Keyboard_Assembly-1_Octave-2_Black_Key-2_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-2_Black_Key-2_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-7_Black_Key-3_Mesh" label="Keyboard_Assembly-1_Octave-7_Black_Key-3_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-7_Black_Key-3_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-7_Black_Key-1_Mesh" label="Keyboard_Assembly-1_Octave-7_Black_Key-1_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-7_Black_Key-1_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-5_Black_Key-1_Mesh" label="Keyboard_Assembly-1_Octave-5_Black_Key-1_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-5_Black_Key-1_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-2_Black_Key-1_Mesh" label="Keyboard_Assembly-1_Octave-2_Black_Key-1_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-2_Black_Key-1_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-5_Black_Key-3_Mesh" label="Keyboard_Assembly-1_Octave-5_Black_Key-3_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-5_Black_Key-3_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-4_Black_Key-2_Mesh" label="Keyboard_Assembly-1_Octave-4_Black_Key-2_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-4_Black_Key-2_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-2_Black_Key-5_Mesh" label="Keyboard_Assembly-1_Octave-2_Black_Key-5_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-2_Black_Key-5_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-1_Black_Key-1_Mesh" label="Keyboard_Assembly-1_Octave-1_Black_Key-1_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-1_Black_Key-1_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-4_Black_Key-3_Mesh" label="Keyboard_Assembly-1_Octave-4_Black_Key-3_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-4_Black_Key-3_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-5_Black_Key-5_Mesh" label="Keyboard_Assembly-1_Octave-5_Black_Key-5_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-5_Black_Key-5_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-1_Black_Key-4_Mesh" label="Keyboard_Assembly-1_Octave-1_Black_Key-4_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-1_Black_Key-4_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-1_Black_Key-3_Mesh" label="Keyboard_Assembly-1_Octave-1_Black_Key-3_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-1_Black_Key-3_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-1_Black_Key-2_Mesh" label="Keyboard_Assembly-1_Octave-1_Black_Key-2_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-1_Black_Key-2_Mesh.udsmesh"/>
+		<Size a="48.044983" x="0.9525" y="2.54" z="10.160001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e69bc2f7d325d5cc97600d4b2df1193"/>
+		<Material id="156550777" name="dark_grey_satin_finish_plastic_156550777_"/>
+	</StaticMesh>
+	<StaticMesh name="Button_2_Piano-2_Mesh" label="Button_2_Piano-2_Mesh">
+		<file path="Full_Piano_Assets/Button_2_Piano-2_Mesh.udsmesh"/>
+		<Size a="19.664513" x="1.825625" y="0.548643" z="1.5875"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="786d3f61f6560065b1d5f9b229743c6f"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Knob_Assembly_1-9_Knob_1_Piano-1_Mesh" label="Knob_Assembly_1-9_Knob_1_Piano-1_Mesh">
+		<file path="Full_Piano_Assets/Knob_Assembly_1-9_Knob_1_Piano-1_Mesh.udsmesh"/>
+		<Size a="7.533034" x="1.029353" y="1.27" z="1.031251"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="56b4240bf519d17b6951f7160cf17d6f"/>
+		<Material id="1569113410" name="light_grey_high_gloss_plastic_1569113410_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-7_C_E_White_Keys-1_Mesh" label="Keyboard_Assembly-1_Octave-7_C_E_White_Keys-1_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-7_C_E_White_Keys-1_Mesh.udsmesh"/>
+		<Size a="1161.595947" x="16.51" y="3.175" z="15.398749"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4d07022ffb221f65829ec9a544e8f40e"/>
+		<Material id="1027945414" name="White-PW-MT11050_1027945414_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-2_C_E_White_Keys-1_Mesh" label="Keyboard_Assembly-1_Octave-2_C_E_White_Keys-1_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-2_C_E_White_Keys-1_Mesh.udsmesh"/>
+		<Size a="1161.595947" x="16.51" y="3.175" z="15.398749"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4d07022ffb221f65829ec9a544e8f40e"/>
+		<Material id="1027945414" name="White-PW-MT11050_1027945414_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-1_C_E_White_Keys-1_Mesh" label="Keyboard_Assembly-1_Octave-1_C_E_White_Keys-1_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-1_C_E_White_Keys-1_Mesh.udsmesh"/>
+		<Size a="1161.595947" x="16.51" y="3.175" z="15.398749"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4d07022ffb221f65829ec9a544e8f40e"/>
+		<Material id="1027945414" name="White-PW-MT11050_1027945414_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-5_C_E_White_Keys-1_Mesh" label="Keyboard_Assembly-1_Octave-5_C_E_White_Keys-1_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-5_C_E_White_Keys-1_Mesh.udsmesh"/>
+		<Size a="1161.595947" x="16.51" y="3.175" z="15.398749"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4d07022ffb221f65829ec9a544e8f40e"/>
+		<Material id="1027945414" name="White-PW-MT11050_1027945414_"/>
+	</StaticMesh>
+	<StaticMesh name="Keyboard_Assembly-1_Octave-4_C_E_White_Keys-1_Mesh" label="Keyboard_Assembly-1_Octave-4_C_E_White_Keys-1_Mesh">
+		<file path="Full_Piano_Assets/Keyboard_Assembly-1_Octave-4_C_E_White_Keys-1_Mesh.udsmesh"/>
+		<Size a="1161.595947" x="16.51" y="3.175" z="15.398749"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4d07022ffb221f65829ec9a544e8f40e"/>
+		<Material id="1027945414" name="White-PW-MT11050_1027945414_"/>
+	</StaticMesh>
+	<Actor name="Full_Piano" label="Full_Piano">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+		<tag value="Full_Piano" />
+		<children visible="true">
+			<ActorMesh name="Button_3_Piano-1" label="Button_3_Piano-1">
+				<mesh name="Button_3_Piano-1_Mesh"/>
+				<Transform tx="-68.460938" ty="22.148367" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_3_Piano-1" />
+			</ActorMesh>
+			<ActorMesh name="Button_2_Piano-2" label="Button_2_Piano-2">
+				<mesh name="Button_2_Piano-2_Mesh"/>
+				<Transform tx="-77.509689" ty="20.243368" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_2_Piano-2" />
+			</ActorMesh>
+			<Actor name="Knob_Assembly_1-9" label="Knob_Assembly_1-9">
+				<Transform tx="-52.926479" ty="21.136225" tz="7.122842" sx="1.0" sy="1.0" sz="1.0" qx="-0.630784" qy="0.319549" qz="-0.319549" qw="0.630784" qhex="0F7B21BFEB9BA33EEC9BA3BE0E7B213F"/>
+				<tag value="Knob_Assembly_1-9" />
+				<children visible="true">
+					<ActorMesh name="Knob_Assembly_1-9_Knob_1_Piano-1" label="Knob_1_Piano-1">
+						<mesh name="Knob_Assembly_1-9_Knob_1_Piano-1_Mesh"/>
+						<Transform tx="-51.59375" ty="21.513369" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.630784" qy="0.319549" qz="-0.319549" qw="0.630784" qhex="0F7B21BFEB9BA33EEC9BA3BE0E7B213F"/>
+						<tag value="Knob_Assembly_1-9_Knob_1_Piano-1" />
+					</ActorMesh>
+					<ActorMesh name="Knob_Assembly_1-9_Knob_1_Dial_Piano-1" label="Knob_1_Dial_Piano-1">
+						<mesh name="Knob_Assembly_1-9_Knob_1_Dial_Piano-1_Mesh"/>
+						<Transform tx="-51.548672" ty="21.451931" tz="8.547099" sx="1.0" sy="1.0" sz="1.0" qx="-0.630784" qy="0.319549" qz="-0.319549" qw="0.630784" qhex="0F7B21BFEB9BA33EEC9BA3BE0E7B213F"/>
+						<tag value="Knob_Assembly_1-9_Knob_1_Dial_Piano-1" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Keyboard_Assembly-1" label="Keyboard_Assembly-1">
+				<Transform tx="-6.270625" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+				<tag value="Keyboard_Assembly-1" />
+				<children visible="true">
+					<Actor name="Keyboard_Assembly-1_Octave-7" label="Octave-7">
+						<Transform tx="-89.614372" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+						<tag value="Keyboard_Assembly-1_Octave-7" />
+						<children visible="true">
+							<ActorMesh name="Keyboard_Assembly-1_Octave-7_Black_Key-5" label="Black_Key-5">
+								<mesh name="Keyboard_Assembly-1_Octave-7_Black_Key-5_Mesh"/>
+								<Transform tx="-102.155624" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-7_Black_Key-5" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-7_Black_Key-1" label="Black_Key-1">
+								<mesh name="Keyboard_Assembly-1_Octave-7_Black_Key-1_Mesh"/>
+								<Transform tx="-89.614372" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-7_Black_Key-1" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-7_C_E_White_Keys-1" label="C_E_White_Keys-1">
+								<mesh name="Keyboard_Assembly-1_Octave-7_C_E_White_Keys-1_Mesh"/>
+								<Transform tx="-88.106247" ty="1.828368" tz="2.8575" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-7_C_E_White_Keys-1" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-7_Black_Key-2" label="Black_Key-2">
+								<mesh name="Keyboard_Assembly-1_Octave-7_Black_Key-2_Mesh"/>
+								<Transform tx="-96.758125" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-7_Black_Key-2" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-7_Black_Key-3" label="Black_Key-3">
+								<mesh name="Keyboard_Assembly-1_Octave-7_Black_Key-3_Mesh"/>
+								<Transform tx="-92.630623" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-7_Black_Key-3" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-7_Black_Key-4" label="Black_Key-4">
+								<mesh name="Keyboard_Assembly-1_Octave-7_Black_Key-4_Mesh"/>
+								<Transform tx="-99.456879" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-7_Black_Key-4" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="Keyboard_Assembly-1_Octave-5" label="Octave-5">
+						<Transform tx="-56.276875" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+						<tag value="Keyboard_Assembly-1_Octave-5" />
+						<children visible="true">
+							<ActorMesh name="Keyboard_Assembly-1_Octave-5_Black_Key-5" label="Black_Key-5">
+								<mesh name="Keyboard_Assembly-1_Octave-5_Black_Key-5_Mesh"/>
+								<Transform tx="-68.818123" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-5_Black_Key-5" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-5_Black_Key-1" label="Black_Key-1">
+								<mesh name="Keyboard_Assembly-1_Octave-5_Black_Key-1_Mesh"/>
+								<Transform tx="-56.276875" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-5_Black_Key-1" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-5_C_E_White_Keys-1" label="C_E_White_Keys-1">
+								<mesh name="Keyboard_Assembly-1_Octave-5_C_E_White_Keys-1_Mesh"/>
+								<Transform tx="-54.768745" ty="1.828368" tz="2.8575" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-5_C_E_White_Keys-1" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-5_Black_Key-2" label="Black_Key-2">
+								<mesh name="Keyboard_Assembly-1_Octave-5_Black_Key-2_Mesh"/>
+								<Transform tx="-63.420624" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-5_Black_Key-2" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-5_Black_Key-3" label="Black_Key-3">
+								<mesh name="Keyboard_Assembly-1_Octave-5_Black_Key-3_Mesh"/>
+								<Transform tx="-59.293129" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-5_Black_Key-3" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-5_Black_Key-4" label="Black_Key-4">
+								<mesh name="Keyboard_Assembly-1_Octave-5_Black_Key-4_Mesh"/>
+								<Transform tx="-66.11937" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-5_Black_Key-4" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="Keyboard_Assembly-1_Octave-2" label="Octave-2">
+						<Transform tx="-22.939375" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+						<tag value="Keyboard_Assembly-1_Octave-2" />
+						<children visible="true">
+							<ActorMesh name="Keyboard_Assembly-1_Octave-2_Black_Key-5" label="Black_Key-5">
+								<mesh name="Keyboard_Assembly-1_Octave-2_Black_Key-5_Mesh"/>
+								<Transform tx="-35.480625" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-2_Black_Key-5" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-2_Black_Key-1" label="Black_Key-1">
+								<mesh name="Keyboard_Assembly-1_Octave-2_Black_Key-1_Mesh"/>
+								<Transform tx="-22.939375" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-2_Black_Key-1" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-2_C_E_White_Keys-1" label="C_E_White_Keys-1">
+								<mesh name="Keyboard_Assembly-1_Octave-2_C_E_White_Keys-1_Mesh"/>
+								<Transform tx="-21.43125" ty="1.828368" tz="2.8575" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-2_C_E_White_Keys-1" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-2_Black_Key-2" label="Black_Key-2">
+								<mesh name="Keyboard_Assembly-1_Octave-2_Black_Key-2_Mesh"/>
+								<Transform tx="-30.083126" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-2_Black_Key-2" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-2_Black_Key-3" label="Black_Key-3">
+								<mesh name="Keyboard_Assembly-1_Octave-2_Black_Key-3_Mesh"/>
+								<Transform tx="-25.955626" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-2_Black_Key-3" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-2_Black_Key-4" label="Black_Key-4">
+								<mesh name="Keyboard_Assembly-1_Octave-2_Black_Key-4_Mesh"/>
+								<Transform tx="-32.781876" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-2_Black_Key-4" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="Keyboard_Assembly-1_Octave-4" label="Octave-4">
+						<Transform tx="-6.270625" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+						<tag value="Keyboard_Assembly-1_Octave-4" />
+						<children visible="true">
+							<ActorMesh name="Keyboard_Assembly-1_Octave-4_Black_Key-5" label="Black_Key-5">
+								<mesh name="Keyboard_Assembly-1_Octave-4_Black_Key-5_Mesh"/>
+								<Transform tx="-18.811876" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-4_Black_Key-5" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-4_Black_Key-1" label="Black_Key-1">
+								<mesh name="Keyboard_Assembly-1_Octave-4_Black_Key-1_Mesh"/>
+								<Transform tx="-6.270625" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-4_Black_Key-1" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-4_C_E_White_Keys-1" label="C_E_White_Keys-1">
+								<mesh name="Keyboard_Assembly-1_Octave-4_C_E_White_Keys-1_Mesh"/>
+								<Transform tx="-4.7625" ty="1.828368" tz="2.8575" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-4_C_E_White_Keys-1" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-4_Black_Key-2" label="Black_Key-2">
+								<mesh name="Keyboard_Assembly-1_Octave-4_Black_Key-2_Mesh"/>
+								<Transform tx="-13.414375" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-4_Black_Key-2" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-4_Black_Key-3" label="Black_Key-3">
+								<mesh name="Keyboard_Assembly-1_Octave-4_Black_Key-3_Mesh"/>
+								<Transform tx="-9.286876" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-4_Black_Key-3" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-4_Black_Key-4" label="Black_Key-4">
+								<mesh name="Keyboard_Assembly-1_Octave-4_Black_Key-4_Mesh"/>
+								<Transform tx="-16.113125" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-4_Black_Key-4" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="Keyboard_Assembly-1_Octave-1" label="Octave-1">
+						<Transform tx="-6.270625" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+						<tag value="Keyboard_Assembly-1_Octave-1" />
+						<children visible="true">
+							<ActorMesh name="Keyboard_Assembly-1_Octave-1_Black_Key-5" label="Black_Key-5">
+								<mesh name="Keyboard_Assembly-1_Octave-1_Black_Key-5_Mesh"/>
+								<Transform tx="-18.811876" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-1_Black_Key-5" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-1_Black_Key-1" label="Black_Key-1">
+								<mesh name="Keyboard_Assembly-1_Octave-1_Black_Key-1_Mesh"/>
+								<Transform tx="-6.270625" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-1_Black_Key-1" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-1_C_E_White_Keys-1" label="C_E_White_Keys-1">
+								<mesh name="Keyboard_Assembly-1_Octave-1_C_E_White_Keys-1_Mesh"/>
+								<Transform tx="-4.7625" ty="1.828368" tz="2.8575" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-1_C_E_White_Keys-1" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-1_Black_Key-2" label="Black_Key-2">
+								<mesh name="Keyboard_Assembly-1_Octave-1_Black_Key-2_Mesh"/>
+								<Transform tx="-13.414375" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-1_Black_Key-2" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-1_Black_Key-3" label="Black_Key-3">
+								<mesh name="Keyboard_Assembly-1_Octave-1_Black_Key-3_Mesh"/>
+								<Transform tx="-9.286876" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-1_Black_Key-3" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-1_Black_Key-4" label="Black_Key-4">
+								<mesh name="Keyboard_Assembly-1_Octave-1_Black_Key-4_Mesh"/>
+								<Transform tx="-16.113125" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-1_Black_Key-4" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="Keyboard_Assembly-1_Octave-6" label="Octave-6">
+						<Transform tx="-72.945625" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+						<tag value="Keyboard_Assembly-1_Octave-6" />
+						<children visible="true">
+							<ActorMesh name="Keyboard_Assembly-1_Octave-6_Black_Key-5" label="Black_Key-5">
+								<mesh name="Keyboard_Assembly-1_Octave-6_Black_Key-5_Mesh"/>
+								<Transform tx="-85.486877" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-6_Black_Key-5" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-6_Black_Key-1" label="Black_Key-1">
+								<mesh name="Keyboard_Assembly-1_Octave-6_Black_Key-1_Mesh"/>
+								<Transform tx="-72.945625" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-6_Black_Key-1" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-6_C_E_White_Keys-1" label="C_E_White_Keys-1">
+								<mesh name="Keyboard_Assembly-1_Octave-6_C_E_White_Keys-1_Mesh"/>
+								<Transform tx="-71.4375" ty="1.828368" tz="2.8575" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-6_C_E_White_Keys-1" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-6_Black_Key-2" label="Black_Key-2">
+								<mesh name="Keyboard_Assembly-1_Octave-6_Black_Key-2_Mesh"/>
+								<Transform tx="-80.089371" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-6_Black_Key-2" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-6_Black_Key-3" label="Black_Key-3">
+								<mesh name="Keyboard_Assembly-1_Octave-6_Black_Key-3_Mesh"/>
+								<Transform tx="-75.961876" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-6_Black_Key-3" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-6_Black_Key-4" label="Black_Key-4">
+								<mesh name="Keyboard_Assembly-1_Octave-6_Black_Key-4_Mesh"/>
+								<Transform tx="-82.788124" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-6_Black_Key-4" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<ActorMesh name="Keyboard_Assembly-1_Left_Keyboard_End-1" label="Left_Keyboard_End-1">
+						<mesh name="Keyboard_Assembly-1_Left_Keyboard_End-1_Mesh"/>
+						<Transform tx="-4.60375" ty="1.828368" tz="2.8575" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+						<tag value="Keyboard_Assembly-1_Left_Keyboard_End-1" />
+					</ActorMesh>
+					<Actor name="Keyboard_Assembly-1_Octave-8" label="Octave-8">
+						<Transform tx="-106.283127" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+						<tag value="Keyboard_Assembly-1_Octave-8" />
+						<children visible="true">
+							<ActorMesh name="Keyboard_Assembly-1_Octave-8_Black_Key-5" label="Black_Key-5">
+								<mesh name="Keyboard_Assembly-1_Octave-8_Black_Key-5_Mesh"/>
+								<Transform tx="-118.824371" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-8_Black_Key-5" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-8_Black_Key-1" label="Black_Key-1">
+								<mesh name="Keyboard_Assembly-1_Octave-8_Black_Key-1_Mesh"/>
+								<Transform tx="-106.283127" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-8_Black_Key-1" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-8_C_E_White_Keys-1" label="C_E_White_Keys-1">
+								<mesh name="Keyboard_Assembly-1_Octave-8_C_E_White_Keys-1_Mesh"/>
+								<Transform tx="-104.775002" ty="1.828368" tz="2.8575" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-8_C_E_White_Keys-1" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-8_Black_Key-2" label="Black_Key-2">
+								<mesh name="Keyboard_Assembly-1_Octave-8_Black_Key-2_Mesh"/>
+								<Transform tx="-113.42688" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-8_Black_Key-2" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-8_Black_Key-3" label="Black_Key-3">
+								<mesh name="Keyboard_Assembly-1_Octave-8_Black_Key-3_Mesh"/>
+								<Transform tx="-109.299377" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-8_Black_Key-3" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-8_Black_Key-4" label="Black_Key-4">
+								<mesh name="Keyboard_Assembly-1_Octave-8_Black_Key-4_Mesh"/>
+								<Transform tx="-116.125618" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-8_Black_Key-4" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="Keyboard_Assembly-1_Octave-3" label="Octave-3">
+						<Transform tx="-39.608124" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+						<tag value="Keyboard_Assembly-1_Octave-3" />
+						<children visible="true">
+							<ActorMesh name="Keyboard_Assembly-1_Octave-3_Black_Key-5" label="Black_Key-5">
+								<mesh name="Keyboard_Assembly-1_Octave-3_Black_Key-5_Mesh"/>
+								<Transform tx="-52.149372" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-3_Black_Key-5" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-3_Black_Key-1" label="Black_Key-1">
+								<mesh name="Keyboard_Assembly-1_Octave-3_Black_Key-1_Mesh"/>
+								<Transform tx="-39.608124" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-3_Black_Key-1" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-3_C_E_White_Keys-1" label="C_E_White_Keys-1">
+								<mesh name="Keyboard_Assembly-1_Octave-3_C_E_White_Keys-1_Mesh"/>
+								<Transform tx="-38.100002" ty="1.828368" tz="2.8575" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-3_C_E_White_Keys-1" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-3_Black_Key-2" label="Black_Key-2">
+								<mesh name="Keyboard_Assembly-1_Octave-3_Black_Key-2_Mesh"/>
+								<Transform tx="-46.751873" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-3_Black_Key-2" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-3_Black_Key-3" label="Black_Key-3">
+								<mesh name="Keyboard_Assembly-1_Octave-3_Black_Key-3_Mesh"/>
+								<Transform tx="-42.624374" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-3_Black_Key-3" />
+							</ActorMesh>
+							<ActorMesh name="Keyboard_Assembly-1_Octave-3_Black_Key-4" label="Black_Key-4">
+								<mesh name="Keyboard_Assembly-1_Octave-3_Black_Key-4_Mesh"/>
+								<Transform tx="-49.450623" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+								<tag value="Keyboard_Assembly-1_Octave-3_Black_Key-4" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<ActorMesh name="Keyboard_Assembly-1_Right_Keyboard_End-1" label="Right_Keyboard_End-1">
+						<mesh name="Keyboard_Assembly-1_Right_Keyboard_End-1_Mesh"/>
+						<Transform tx="-121.443748" ty="1.828368" tz="2.8575" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+						<tag value="Keyboard_Assembly-1_Right_Keyboard_End-1" />
+					</ActorMesh>
+					<ActorMesh name="Keyboard_Assembly-1_Black_Key-1" label="Black_Key-1">
+						<mesh name="Keyboard_Assembly-1_Black_Key-1_Mesh"/>
+						<Transform tx="-2.143125" ty="16.433369" tz="7.143749" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="-0.707107" qw="-0.0" qhex="F15D2FA5F404353FF40435BF2EBD3BB3"/>
+						<tag value="Keyboard_Assembly-1_Black_Key-1" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<ActorMesh name="Button_2_Piano-1" label="Button_2_Piano-1">
+				<mesh name="Button_2_Piano-1_Mesh"/>
+				<Transform tx="-85.129692" ty="20.243368" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_2_Piano-1" />
+			</ActorMesh>
+			<ActorMesh name="Screen_Piano-1" label="Screen_Piano-1">
+				<mesh name="Screen_Piano-1_Mesh"/>
+				<Transform tx="-61.833126" ty="21.275244" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Screen_Piano-1" />
+			</ActorMesh>
+			<ActorMesh name="Button_2_Piano-5" label="Button_2_Piano-5">
+				<mesh name="Button_2_Piano-5_Mesh"/>
+				<Transform tx="-82.589684" ty="20.243368" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_2_Piano-5" />
+			</ActorMesh>
+			<ActorMesh name="Felt_Piece-1" label="Felt_Piece-1">
+				<mesh name="Felt_Piece-1_Mesh"/>
+				<Transform tx="-123.666252" ty="17.227118" tz="6.032499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Felt_Piece-1" />
+			</ActorMesh>
+			<ActorMesh name="Wheel_Things_Piano-2" label="Wheel_Things_Piano-2">
+				<mesh name="Wheel_Things_Piano-2_Mesh"/>
+				<Transform tx="-1.905" ty="21.234184" tz="7.529017" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Wheel_Things_Piano-2" />
+			</ActorMesh>
+			<ActorMesh name="Wheel_Things_Piano-1" label="Wheel_Things_Piano-1">
+				<mesh name="Wheel_Things_Piano-1_Mesh"/>
+				<Transform tx="-4.92125" ty="21.234184" tz="7.529017" sx="1.0" sy="1.0" sz="1.0" qx="-0.663096" qy="0.0" qz="0.0" qw="0.748535" qhex="A5C029BF0000000000000080F69F3F3F"/>
+				<tag value="Wheel_Things_Piano-1" />
+			</ActorMesh>
+			<ActorMesh name="Button_1_Piano-10" label="Button_1_Piano-10">
+				<mesh name="Button_1_Piano-10_Mesh"/>
+				<Transform tx="-82.589684" ty="22.108681" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_1_Piano-10" />
+			</ActorMesh>
+			<Actor name="Knob_Assembly_1-8" label="Knob_Assembly_1-8">
+				<Transform tx="-47.747005" ty="21.972538" tz="7.122842" sx="1.0" sy="1.0" sz="1.0" qx="0.299802" qy="0.640405" qz="-0.640405" qw="-0.299802" qhex="A27F993E98F1233F98F123BFA37F99BE"/>
+				<tag value="Knob_Assembly_1-8" />
+				<children visible="true">
+					<ActorMesh name="Knob_Assembly_1-8_Knob_1_Piano-1" label="Knob_1_Piano-1">
+						<mesh name="Knob_Assembly_1-8_Knob_1_Piano-1_Mesh"/>
+						<Transform tx="-49.053749" ty="21.513369" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="0.299802" qy="0.640405" qz="-0.640405" qw="-0.299802" qhex="A27F993E98F1233F98F123BFA37F99BE"/>
+						<tag value="Knob_Assembly_1-8_Knob_1_Piano-1" />
+					</ActorMesh>
+					<ActorMesh name="Knob_Assembly_1-8_Knob_1_Dial_Piano-1" label="Knob_1_Dial_Piano-1">
+						<mesh name="Knob_Assembly_1-8_Knob_1_Dial_Piano-1_Mesh"/>
+						<Transform tx="-49.102554" ty="21.571888" tz="8.547099" sx="1.0" sy="1.0" sz="1.0" qx="0.299802" qy="0.640405" qz="-0.640405" qw="-0.299802" qhex="A27F993E98F1233F98F123BFA37F99BE"/>
+						<tag value="Knob_Assembly_1-8_Knob_1_Dial_Piano-1" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<ActorMesh name="Button_1_Piano-18" label="Button_1_Piano-18">
+				<mesh name="Button_1_Piano-18_Mesh"/>
+				<Transform tx="-85.129692" ty="22.108681" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_1_Piano-18" />
+			</ActorMesh>
+			<ActorMesh name="Button_1_Piano-12" label="Button_1_Piano-12">
+				<mesh name="Button_1_Piano-12_Mesh"/>
+				<Transform tx="-80.04969" ty="22.108681" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_1_Piano-12" />
+			</ActorMesh>
+			<ActorMesh name="Button_1_Piano-13" label="Button_1_Piano-13">
+				<mesh name="Button_1_Piano-13_Mesh"/>
+				<Transform tx="-87.669685" ty="22.108681" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_1_Piano-13" />
+			</ActorMesh>
+			<ActorMesh name="Button_1_Piano-14" label="Button_1_Piano-14">
+				<mesh name="Button_1_Piano-14_Mesh"/>
+				<Transform tx="-90.209686" ty="22.108681" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_1_Piano-14" />
+			</ActorMesh>
+			<ActorMesh name="Button_1_Piano-17" label="Button_1_Piano-17">
+				<mesh name="Button_1_Piano-17_Mesh"/>
+				<Transform tx="-97.829689" ty="22.108681" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_1_Piano-17" />
+			</ActorMesh>
+			<ActorMesh name="Button_1_Piano-16" label="Button_1_Piano-16">
+				<mesh name="Button_1_Piano-16_Mesh"/>
+				<Transform tx="-92.749687" ty="22.108681" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_1_Piano-16" />
+			</ActorMesh>
+			<Actor name="Knob_Assembly_1-5" label="Knob_Assembly_1-5">
+				<Transform tx="-40.464157" ty="20.169323" tz="7.122842" sx="1.0" sy="1.0" sz="1.0" qx="-0.6754" qy="-0.209367" qz="0.209367" qw="0.6754" qhex="05E72CBF6A6456BE6A64563E05E72C3F"/>
+				<tag value="Knob_Assembly_1-5" />
+				<children visible="true">
+					<ActorMesh name="Knob_Assembly_1-5_Knob_1_Piano-1" label="Knob_1_Piano-1">
+						<mesh name="Knob_Assembly_1-5_Knob_1_Piano-1_Mesh"/>
+						<Transform tx="-40.798752" ty="21.513369" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.6754" qy="-0.209367" qz="0.209367" qw="0.6754" qhex="05E72CBF6A6456BE6A64563E05E72C3F"/>
+						<tag value="Knob_Assembly_1-5_Knob_1_Piano-1" />
+					</ActorMesh>
+					<ActorMesh name="Knob_Assembly_1-5_Knob_1_Dial_Piano-1" label="Knob_1_Dial_Piano-1">
+						<mesh name="Knob_Assembly_1-5_Knob_1_Dial_Piano-1_Mesh"/>
+						<Transform tx="-40.735909" ty="21.556469" tz="8.547099" sx="1.0" sy="1.0" sz="1.0" qx="-0.6754" qy="-0.209367" qz="0.209367" qw="0.6754" qhex="05E72CBF6A6456BE6A64563E05E72C3F"/>
+						<tag value="Knob_Assembly_1-5_Knob_1_Dial_Piano-1" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<ActorMesh name="Button_1_Piano-11" label="Button_1_Piano-11">
+				<mesh name="Button_1_Piano-11_Mesh"/>
+				<Transform tx="-77.509689" ty="22.108681" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_1_Piano-11" />
+			</ActorMesh>
+			<ActorMesh name="Button_1_Piano-15" label="Button_1_Piano-15">
+				<mesh name="Button_1_Piano-15_Mesh"/>
+				<Transform tx="-95.289688" ty="22.108681" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_1_Piano-15" />
+			</ActorMesh>
+			<ActorMesh name="Button_1_Piano-19" label="Button_1_Piano-19">
+				<mesh name="Button_1_Piano-19_Mesh"/>
+				<Transform tx="-27.297062" ty="21.711805" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_1_Piano-19" />
+			</ActorMesh>
+			<Actor name="Knob_Assembly_1-2" label="Knob_Assembly_1-2">
+				<Transform tx="-32.516376" ty="22.729786" tz="7.122842" sx="1.0" sy="1.0" sz="1.0" qx="0.049959" qy="0.70534" qz="-0.70534" qw="-0.049959" qhex="ECA14C3D2491343F249134BFFBA14CBD"/>
+				<tag value="Knob_Assembly_1-2" />
+				<children visible="true">
+					<ActorMesh name="Knob_Assembly_1-2_Knob_1_Piano-1" label="Knob_1_Piano-1">
+						<mesh name="Knob_Assembly_1-2_Knob_1_Piano-1_Mesh"/>
+						<Transform tx="-33.178749" ty="21.513369" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="0.049959" qy="0.70534" qz="-0.70534" qw="-0.049959" qhex="ECA14C3D2491343F249134BFFBA14CBD"/>
+						<tag value="Knob_Assembly_1-2_Knob_1_Piano-1" />
+					</ActorMesh>
+					<ActorMesh name="Knob_Assembly_1-2_Knob_1_Dial_Piano-1" label="Knob_1_Dial_Piano-1">
+						<mesh name="Knob_Assembly_1-2_Knob_1_Dial_Piano-1_Mesh"/>
+						<Transform tx="-33.254189" ty="21.524109" tz="8.547099" sx="1.0" sy="1.0" sz="1.0" qx="0.049959" qy="0.70534" qz="-0.70534" qw="-0.049959" qhex="ECA14C3D2491343F249134BFFBA14CBD"/>
+						<tag value="Knob_Assembly_1-2_Knob_1_Dial_Piano-1" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Knob_Assembly_1-7" label="Knob_Assembly_1-7">
+				<Transform tx="-45.128803" ty="21.49531" tz="7.122842" sx="1.0" sy="1.0" sz="1.0" qx="0.406996" qy="0.578234" qz="-0.578234" qw="-0.406996" qhex="D061D03E1D07143F1E0714BFCE61D0BE"/>
+				<tag value="Knob_Assembly_1-7" />
+				<children visible="true">
+					<ActorMesh name="Knob_Assembly_1-7_Knob_1_Piano-1" label="Knob_1_Piano-1">
+						<mesh name="Knob_Assembly_1-7_Knob_1_Piano-1_Mesh"/>
+						<Transform tx="-46.513752" ty="21.513369" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="0.406996" qy="0.578234" qz="-0.578234" qw="-0.406996" qhex="D061D03E1D07143F1E0714BFCE61D0BE"/>
+						<tag value="Knob_Assembly_1-7_Knob_1_Piano-1" />
+					</ActorMesh>
+					<ActorMesh name="Knob_Assembly_1-7_Knob_1_Dial_Piano-1" label="Knob_1_Dial_Piano-1">
+						<mesh name="Knob_Assembly_1-7_Knob_1_Dial_Piano-1_Mesh"/>
+						<Transform tx="-46.539463" ty="21.5851" tz="8.547099" sx="1.0" sy="1.0" sz="1.0" qx="0.406996" qy="0.578234" qz="-0.578234" qw="-0.406996" qhex="D061D03E1D07143F1E0714BFCE61D0BE"/>
+						<tag value="Knob_Assembly_1-7_Knob_1_Dial_Piano-1" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Knob_Assembly_1-1" label="Knob_Assembly_1-1">
+				<Transform tx="-28.440523" ty="22.410532" tz="7.122842" sx="1.0" sy="1.0" sz="1.0" qx="0.178013" qy="0.684333" qz="-0.684333" qw="-0.178013" qhex="E948363E71302F3F72302FBFE94836BE"/>
+				<tag value="Knob_Assembly_1-1" />
+				<children visible="true">
+					<ActorMesh name="Knob_Assembly_1-1_Knob_1_Piano-1" label="Knob_1_Piano-1">
+						<mesh name="Knob_Assembly_1-1_Knob_1_Piano-1_Mesh"/>
+						<Transform tx="-29.495749" ty="21.513369" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="0.178013" qy="0.684333" qz="-0.684333" qw="-0.178013" qhex="E948363E71302F3F72302FBFE94836BE"/>
+						<tag value="Knob_Assembly_1-1_Knob_1_Piano-1" />
+					</ActorMesh>
+					<ActorMesh name="Knob_Assembly_1-1_Knob_1_Dial_Piano-1" label="Knob_1_Dial_Piano-1">
+						<mesh name="Knob_Assembly_1-1_Knob_1_Dial_Piano-1_Mesh"/>
+						<Transform tx="-29.562292" ty="21.550499" tz="8.547099" sx="1.0" sy="1.0" sz="1.0" qx="0.178013" qy="0.684333" qz="-0.684333" qw="-0.178013" qhex="E948363E71302F3F72302FBFE94836BE"/>
+						<tag value="Knob_Assembly_1-1_Knob_1_Dial_Piano-1" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<ActorMesh name="Button_2_Piano-4" label="Button_2_Piano-4">
+				<mesh name="Button_2_Piano-4_Mesh"/>
+				<Transform tx="-74.969688" ty="20.243368" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_2_Piano-4" />
+			</ActorMesh>
+			<ActorMesh name="Main_Keyboard_Frame-1" label="Main_Keyboard_Frame-1">
+				<mesh name="Main_Keyboard_Frame-1_Mesh"/>
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Main_Keyboard_Frame-1" />
+			</ActorMesh>
+			<ActorMesh name="Button_3_Piano-6" label="Button_3_Piano-6">
+				<mesh name="Button_3_Piano-6_Mesh"/>
+				<Transform tx="-70.048439" ty="22.148367" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_3_Piano-6" />
+			</ActorMesh>
+			<ActorMesh name="Button_2_Piano-3" label="Button_2_Piano-3">
+				<mesh name="Button_2_Piano-3_Mesh"/>
+				<Transform tx="-80.04969" ty="20.243368" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_2_Piano-3" />
+			</ActorMesh>
+			<ActorMesh name="Button_1_Piano-1" label="Button_1_Piano-1">
+				<mesh name="Button_1_Piano-1_Mesh"/>
+				<Transform tx="-34.09156" ty="18.933681" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_1_Piano-1" />
+			</ActorMesh>
+			<ActorMesh name="Button_3_Piano-8" label="Button_3_Piano-8">
+				<mesh name="Button_3_Piano-8_Mesh"/>
+				<Transform tx="-68.460938" ty="20.560867" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_3_Piano-8" />
+			</ActorMesh>
+			<ActorMesh name="Button_2_Piano-7" label="Button_2_Piano-7">
+				<mesh name="Button_2_Piano-7_Mesh"/>
+				<Transform tx="-87.669685" ty="20.243368" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_2_Piano-7" />
+			</ActorMesh>
+			<ActorMesh name="Button_3_Piano-4" label="Button_3_Piano-4">
+				<mesh name="Button_3_Piano-4_Mesh"/>
+				<Transform tx="-70.048439" ty="18.973368" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_3_Piano-4" />
+			</ActorMesh>
+			<ActorMesh name="Button_2_Piano-11" label="Button_2_Piano-11">
+				<mesh name="Button_2_Piano-11_Mesh"/>
+				<Transform tx="-97.829689" ty="20.243368" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_2_Piano-11" />
+			</ActorMesh>
+			<ActorMesh name="Button_3_Piano-5" label="Button_3_Piano-5">
+				<mesh name="Button_3_Piano-5_Mesh"/>
+				<Transform tx="-71.635941" ty="20.560867" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_3_Piano-5" />
+			</ActorMesh>
+			<ActorMesh name="Button_2_Piano-13" label="Button_2_Piano-13">
+				<mesh name="Button_2_Piano-13_Mesh"/>
+				<Transform tx="-92.749687" ty="20.243368" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_2_Piano-13" />
+			</ActorMesh>
+			<ActorMesh name="Button_3_Piano-7" label="Button_3_Piano-7">
+				<mesh name="Button_3_Piano-7_Mesh"/>
+				<Transform tx="-71.635941" ty="22.148367" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_3_Piano-7" />
+			</ActorMesh>
+			<ActorMesh name="Button_3_Piano-2" label="Button_3_Piano-2">
+				<mesh name="Button_3_Piano-2_Mesh"/>
+				<Transform tx="-70.048439" ty="20.560867" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_3_Piano-2" />
+			</ActorMesh>
+			<ActorMesh name="Button_2_Piano-14" label="Button_2_Piano-14">
+				<mesh name="Button_2_Piano-14_Mesh"/>
+				<Transform tx="-90.209686" ty="20.243368" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_2_Piano-14" />
+			</ActorMesh>
+			<ActorMesh name="Button_3_Piano-3" label="Button_3_Piano-3">
+				<mesh name="Button_3_Piano-3_Mesh"/>
+				<Transform tx="-71.635941" ty="18.973368" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_3_Piano-3" />
+			</ActorMesh>
+			<ActorMesh name="Button_2_Piano-12" label="Button_2_Piano-12">
+				<mesh name="Button_2_Piano-12_Mesh"/>
+				<Transform tx="-95.289688" ty="20.243368" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_2_Piano-12" />
+			</ActorMesh>
+			<ActorMesh name="Button_1_Piano-5" label="Button_1_Piano-5">
+				<mesh name="Button_1_Piano-5_Mesh"/>
+				<Transform tx="-41.711563" ty="18.933681" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_1_Piano-5" />
+			</ActorMesh>
+			<ActorMesh name="Button_1_Piano-8" label="Button_1_Piano-8">
+				<mesh name="Button_1_Piano-8_Mesh"/>
+				<Transform tx="-52.506561" ty="18.933681" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_1_Piano-8" />
+			</ActorMesh>
+			<ActorMesh name="Button_1_Piano-9" label="Button_1_Piano-9">
+				<mesh name="Button_1_Piano-9_Mesh"/>
+				<Transform tx="-49.96656" ty="18.933681" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_1_Piano-9" />
+			</ActorMesh>
+			<ActorMesh name="Button_1_Piano-2" label="Button_1_Piano-2">
+				<mesh name="Button_1_Piano-2_Mesh"/>
+				<Transform tx="-74.969688" ty="22.108681" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_1_Piano-2" />
+			</ActorMesh>
+			<ActorMesh name="Button_1_Piano-6" label="Button_1_Piano-6">
+				<mesh name="Button_1_Piano-6_Mesh"/>
+				<Transform tx="-44.886562" ty="18.933681" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_1_Piano-6" />
+			</ActorMesh>
+			<ActorMesh name="Button_1_Piano-7" label="Button_1_Piano-7">
+				<mesh name="Button_1_Piano-7_Mesh"/>
+				<Transform tx="-47.426563" ty="18.933681" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_1_Piano-7" />
+			</ActorMesh>
+			<ActorMesh name="Button_1_Piano-4" label="Button_1_Piano-4">
+				<mesh name="Button_1_Piano-4_Mesh"/>
+				<Transform tx="-39.171562" ty="18.933681" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_1_Piano-4" />
+			</ActorMesh>
+			<ActorMesh name="Button_1_Piano-3" label="Button_1_Piano-3">
+				<mesh name="Button_1_Piano-3_Mesh"/>
+				<Transform tx="-36.631565" ty="18.933681" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_1_Piano-3" />
+			</ActorMesh>
+			<Actor name="Knob_Assembly_1-3" label="Knob_Assembly_1-3">
+				<Transform tx="-35.142757" ty="20.253748" tz="7.122842" sx="1.0" sy="1.0" sz="1.0" qx="-0.653187" qy="-0.270826" qz="0.270826" qw="0.653187" qhex="443727BFB5A98ABEB6A98A3E4437273F"/>
+				<tag value="Knob_Assembly_1-3" />
+				<children visible="true">
+					<ActorMesh name="Knob_Assembly_1-3_Knob_1_Piano-1" label="Knob_1_Piano-1">
+						<mesh name="Knob_Assembly_1-3_Knob_1_Piano-1_Mesh"/>
+						<Transform tx="-35.71875" ty="21.513369" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.653187" qy="-0.270826" qz="0.270826" qw="0.653187" qhex="443727BFB5A98ABEB6A98A3E4437273F"/>
+						<tag value="Knob_Assembly_1-3_Knob_1_Piano-1" />
+					</ActorMesh>
+					<ActorMesh name="Knob_Assembly_1-3_Knob_1_Dial_Piano-1" label="Knob_1_Dial_Piano-1">
+						<mesh name="Knob_Assembly_1-3_Knob_1_Dial_Piano-1_Mesh"/>
+						<Transform tx="-35.664906" ty="21.567287" tz="8.547099" sx="1.0" sy="1.0" sz="1.0" qx="-0.653187" qy="-0.270826" qz="0.270826" qw="0.653187" qhex="443727BFB5A98ABEB6A98A3E4437273F"/>
+						<tag value="Knob_Assembly_1-3_Knob_1_Dial_Piano-1" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Knob_Assembly_1-4" label="Knob_Assembly_1-4">
+				<Transform tx="-37.070564" ty="20.801592" tz="7.122842" sx="1.0" sy="1.0" sz="1.0" qx="-0.543483" qy="-0.452356" qz="0.452356" qw="0.543483" qhex="BA210BBF309BE7BE329BE73EBA210B3F"/>
+				<tag value="Knob_Assembly_1-4" />
+				<children visible="true">
+					<ActorMesh name="Knob_Assembly_1-4_Knob_1_Piano-1" label="Knob_1_Piano-1">
+						<mesh name="Knob_Assembly_1-4_Knob_1_Piano-1_Mesh"/>
+						<Transform tx="-38.258751" ty="21.513369" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.543483" qy="-0.452356" qz="0.452356" qw="0.543483" qhex="BA210BBF309BE7BE329BE73EBA210B3F"/>
+						<tag value="Knob_Assembly_1-4_Knob_1_Piano-1" />
+					</ActorMesh>
+					<ActorMesh name="Knob_Assembly_1-4_Knob_1_Dial_Piano-1" label="Knob_1_Dial_Piano-1">
+						<mesh name="Knob_Assembly_1-4_Knob_1_Dial_Piano-1_Mesh"/>
+						<Transform tx="-38.244923" ty="21.588303" tz="8.547099" sx="1.0" sy="1.0" sz="1.0" qx="-0.543483" qy="-0.452356" qz="0.452356" qw="0.543483" qhex="BA210BBF309BE7BE329BE73EBA210B3F"/>
+						<tag value="Knob_Assembly_1-4_Knob_1_Dial_Piano-1" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<ActorMesh name="Button_3_Piano-9" label="Button_3_Piano-9">
+				<mesh name="Button_3_Piano-9_Mesh"/>
+				<Transform tx="-68.460938" ty="18.973368" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000080F304353F"/>
+				<tag value="Button_3_Piano-9" />
+			</ActorMesh>
+			<Actor name="Knob_Assembly_1-6" label="Knob_Assembly_1-6">
+				<Transform tx="-42.594414" ty="21.639229" tz="7.122842" sx="1.0" sy="1.0" sz="1.0" qx="0.376382" qy="0.598612" qz="-0.598612" qw="-0.376382" qhex="21B5C03EA83E193FA83E19BF21B5C0BE"/>
+				<tag value="Knob_Assembly_1-6" />
+				<children visible="true">
+					<ActorMesh name="Knob_Assembly_1-6_Knob_1_Piano-1" label="Knob_1_Piano-1">
+						<mesh name="Knob_Assembly_1-6_Knob_1_Piano-1_Mesh"/>
+						<Transform tx="-43.973751" ty="21.513369" tz="7.302499" sx="1.0" sy="1.0" sz="1.0" qx="0.376382" qy="0.598612" qz="-0.598612" qw="-0.376382" qhex="21B5C03EA83E193FA83E19BF21B5C0BE"/>
+						<tag value="Knob_Assembly_1-6_Knob_1_Piano-1" />
+					</ActorMesh>
+					<ActorMesh name="Knob_Assembly_1-6_Knob_1_Dial_Piano-1" label="Knob_1_Dial_Piano-1">
+						<mesh name="Knob_Assembly_1-6_Knob_1_Dial_Piano-1_Mesh"/>
+						<Transform tx="-44.006771" ty="21.582041" tz="8.547099" sx="1.0" sy="1.0" sz="1.0" qx="0.376382" qy="0.598612" qz="-0.598612" qw="-0.376382" qhex="21B5C03EA83E193FA83E19BF21B5C0BE"/>
+						<tag value="Knob_Assembly_1-6_Knob_1_Dial_Piano-1" />
+					</ActorMesh>
+				</children>
+			</Actor>
+		</children>
+	</Actor>
+	<Texture name="PlasticPolystyrene_normalmap" label="PlasticPolystyrene_normalmap" texturemode="2" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="1.000000" srgb="0" file="Full_Piano_Assets/PlasticPolystyrene_normalmap.dds">
+		<Hash value="c35daed10e9060dd7d807bfce82ff7cf"/>
+	</Texture>
+	<MasterMaterial name="dark_grey_satin_finish_plastic_156550777_"  label="dark_grey_satin_finish_plastic_156550777_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.298039,G=0.298039,B=0.298039,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.800000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="0.000000"/>
+	</MasterMaterial>
+	<MasterMaterial name="glossy_rubber_1025938553_"  label="glossy_rubber_1025938553_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.298039,G=0.298039,B=0.298039,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.196000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="0.000000"/>
+	</MasterMaterial>
+	<MasterMaterial name="light_grey_high_gloss_plastic_1569113410_"  label="light_grey_high_gloss_plastic_1569113410_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.498039,G=0.498039,B=0.498039,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.170000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="0.000000"/>
+	</MasterMaterial>
+	<MasterMaterial name="Polycarbonate_612257883_"  label="Polycarbonate_612257883_" Type="2" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.160000"/>
+		<KeyValueProperty name="Metalness" type="Float" val="0.000000"/>
+		<KeyValueProperty name="OpacityAndRefraction" type="Color" val="(R=0.250000,G=1.000000,B=0.000000,A=0.350000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="White-PW-MT11050_1027945414_"  label="White-PW-MT11050_1027945414_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="1.000000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="0.000000"/>
+		<KeyValueProperty name="NormalMap" type="Texture" val="PlasticPolystyrene_normalmap"/>
+	</MasterMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>

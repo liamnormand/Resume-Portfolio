@@ -1,0 +1,16 @@
+[StartTime]
+!SuperSonicSeparator_Assembly-Bending Test.MFC=43m:1s
+[SolverState]
+!SuperSonicSeparator_Assembly-Bending Test.MFC=1
+[MainFrame]
+!SuperSonicSeparator_Assembly-Bending Test.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPJCCAAAAABLAAAAAABJDAAAAANNCAAAAA
+[ShowMin]
+!SuperSonicSeparator_Assembly-Bending Test.MFC=No
+[SolverType]
+!SuperSonicSeparator_Assembly-Bending Test.MFC=Linear Analysis
+[StudyType]
+!SuperSonicSeparator_Assembly-Bending Test.MFC=0
+[StudyName]
+!SuperSonicSeparator_Assembly-Bending Test.MFC=Bending Test
+[Solver]
+!SuperSonicSeparator_Assembly-Bending Test.MFC=Iterative

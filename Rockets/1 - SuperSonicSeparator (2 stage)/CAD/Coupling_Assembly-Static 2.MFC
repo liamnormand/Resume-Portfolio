@@ -1,0 +1,16 @@
+[StartTime]
+Coupling_Assembly-Static 2.MFC=4s
+[SolverState]
+Coupling_Assembly-Static 2.MFC=2
+[MainFrame]
+Coupling_Assembly-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+Coupling_Assembly-Static 2.MFC=No
+[SolverType]
+Coupling_Assembly-Static 2.MFC=Linear Analysis
+[StudyType]
+Coupling_Assembly-Static 2.MFC=0
+[StudyName]
+Coupling_Assembly-Static 2.MFC=Static 2
+[Solver]
+Coupling_Assembly-Static 2.MFC=Sparse

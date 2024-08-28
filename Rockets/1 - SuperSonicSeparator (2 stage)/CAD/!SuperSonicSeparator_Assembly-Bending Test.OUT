@@ -1,0 +1,1131 @@
+
+****************************************************************
+****************************************************************
+**                                                            **
+**                                                            **
+**        CCC     OO      SSS    M    M     OO      SSS       **
+**       C       O  O    S       MM  MM    O  O    S          **
+**       C       O  O     SS     M MM M    O  O     SS        **
+**       C       O  O       S    M    M    O  O       S       **
+**        CCC     OO     SSS     M    M     OO     SSS        **
+**                                                            **
+**                                                            **
+**                   Simulations  V2023-SP01                  **
+**                 Simulation Premium Package                 **
+**           Distributed By: SOLIDWORKS Corporation           **
+**               21255 Burbank Blvd Suite 400                 **
+**               Woodland Hills, California 91367             **
+**               Telephone Number (774)556-3100               **
+**         Copyright 1988-2018 SOLIDWORKS Corporation         **
+**                                                            **
+****************************************************************
+****************************************************************
+
+Problem name: D:\Liam\Documents\Github\Special_Project
+Date        : 08/27/2024     Time:   17:20:42
+
+
+ SYSTEM OF UNITS:
+ International System of Units, SI, is used for all input/output data.
+ Common Quantities:
+ Length:meter, Mass:kilogram, Time:second, Temperature:kelvin
+ Force:newton, Pressure also stress:pascal, Energy:joule, Power:watt
+
+ NUMBER OF PHYSICAL CORES USED TO RUN SIMULATION:  4
+
+  C O N T R O L  I N F O R M A T I O N                  
+
+   CURRENT RESTRAINT SET . . . . . . . . . . . (BC_SET)  =           1
+
+   NUMBER OF LOAD CASES  . . . . . . . . . . . (NLCASE)  =           1
+   SOLUTION MODE . . . . . . . . . . . . . . . (MODEX)   =           0
+      EQ. 0, STATIC ANALYSIS                              
+      EQ. 1, BUCKLING ANALYSIS                            
+      EQ. 2, DYNAMIC ANALYSIS                             
+      EQ. 3, DROP TEST                                    
+
+   SOLVER TYPE . . . . . . . . . . . . . . . . .(ISOL)   =           2
+      EQ. 0, DIRECT SPARSE SOLVER                         
+      EQ. 1, DIRECT SKYLINE SOLVER                        
+      EQ. 2, ITERATIVE SOLVER                             
+      EQ. 3, EXPLICIT INTEGRATION                         
+      EQ. 4, LARGE PROBLEM DIRECT SPARSE SOLVER           
+      EQ. 5, INTEL DIRECT SPARSE SOLVER                   
+      EQ. 6, INTEL NETWORK SPARSE SOLVER                  
+      EQ. 7, SINGULAR VALUE DECOMPOSTION (SVD)            
+
+   ITERATIVE SOLUTION MODE . . . . . . . . . . (IMODE)   =           1
+      EQ. 1, GENERAL                                      
+      EQ. 2, MEMORY SAVER (FOR TETRA10)                   
+      EQ. 3, ULTRA-MEMORY SAVER (FOR TETRA10)             
+
+   SOLVER CONVERGENCE TOLERANCE  . . . . . . . (CONVR)   =   0.100E-03
+
+   THERMAL LOADING FLAG . . . . . . . . . . . .(ITHERM)  =           0
+      EQ. 0, NO THERMAL EFFECTS CONSIDERED                
+      EQ. 1, ADD TEMPERATURE EFFECT                       
+   GRAVITY LOADING FLAG . . . . . . . . . . . .(IGRAV)   =           0
+      EQ. 0, NO GRAVITY LOADING CONSIDERED                
+      EQ. 1, ADD GRAVITY LOADING EFFECT                   
+   CENTRIFUGAL LOADING FLAG . . . . . . . . . .(ICNTRF)  =           0
+      EQ. 0, NO CENTRIFUGAL LOADING CONSIDERED            
+      EQ. 1, ADD CENTRIFUGAL LOADING EFFECT               
+   IN-PLANE STIFFENING FLAG . . . . . . . . . .(INPLN)   =           0
+      EQ. 0, NO IN-PLANE EFFECTS CONSIDERED               
+      EQ. 1, IN-PLANE EFFECTS CONSIDERED                  
+   SOFT SPRING ADDITION FLAG . . . . . . . . . (ISOFT)   =           0
+      EQ. 0, NO SOFT SPRING OPTION                        
+      EQ. 1, SOFT SPRING ADDED                            
+
+   SAVE DECOMPOSED STIFFNESS MATRIX FLAG . . . (ISAVK)   =           0
+      EQ. 0, DO NOT SAVE DECOMPOSED K                     
+      EQ. 1, SAVE DECOMPOSED K                            
+   FORM STIFFNESS MATRIX FLAG . . . . . . . . .(IFORMK)  =           0
+      EQ. 0, FORM STIFFNESS MATRIX                        
+      EQ. 1, USE EXISTING DECOMPOSED STIFFNESS MATRIX     
+
+   SPIN SOFTENING FLAG . . . . . . . . . . . . (ISPIN)   =           0
+      EQ. 0, NO SPIN SOFTENING EFFECTS CONSIDERED         
+      EQ. 1, SPIN SOFTENING EFFECTS CONSIDERED            
+   INERTIA RELIEF FLAG  . . . . . . . . . . . .(IFORMK)  =           0
+      EQ. 0, NO INERITA RELIEF EFFECTS CONSIDERED         
+      EQ. 1, INERITA RELIEF EFFECTS CONSIDERED            
+   RIGID CONNECTIONS FLAG  . . . . . . . . . . (IRIGID)  =           0
+      EQ. 0, HINGE CONNECTIONS BETWEEN SOLIDS & SHELLS    
+      EQ. 1, RIGID CONNECTIONS BETWEEN SOLIDS & SHELLS    
+
+
+  T O T A L  S Y S T E M  D A T A                        
+   NUMBER OF EQUATIONS . . . . . . . . . . . . . .(NEQ)  =      272598
+   NUMBER OF ELEMENTS. . . . . . . . . . . . . . .(NUME) =      114244
+   NUMBER OF NODAL POINTS. . . . . . . . . . . . .(NUMNP)=       90894
+
+  I N T E R A C T I O N  D A T A                         
+   SURFACE-TO-SURFACE BONDING ALGORITHM . . . .(INTRBALG)=           1
+      EQ. 0, STANDARD                                     
+      EQ. 1, ADVANCED                                     
+
+
+
+
+************************************************************************
+    D I S P L A C E M E N T     P R I N T O U T    (LOAD CASE     1)
+************************************************************************
+
+
+
+
+************************************************************************
+    D I S P L A C E M E N T     P R I N T O U T    (LOAD CASE     1)
+************************************************************************
+
+
+  STATUS OF THERMAL EFFECTS FOR THIS LOAD CASE:
+  ---------------------------------------------
+
+    - Thermal flag is off (no thermal effect)
+
+
+
+  S O L U T I O N   T I M E   L O G   I N   S E C
+            FOR PROBLEM
+     TIME FOR INPUT PHASE  . . . . . . . . . . . . . . =       3
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX=       2
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . =      29
+
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Prep) . . .=      36
+     ***** ITERATION NUMBER ***** . . . . . . . . =       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1597
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14505
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       4
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       2
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1649
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14383
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       3
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1661
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15945
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       4
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1667
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15254
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       5
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1781
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15373
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Prep) . . .=       0
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1645
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14508
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1654
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14013
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       2
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1692
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   13786
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Prep) . . .=       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1620
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14197
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1648
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15424
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       2
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1651
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   17484
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       3
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1714
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14854
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       4
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1650
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15964
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       5
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1656
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16466
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       6
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    2282
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15402
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       7
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1815
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14787
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       8
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1657
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15230
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Prep) . . .=       0
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1644
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15302
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1762
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15229
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       2
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1651
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14411
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       3
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1657
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   17686
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       4
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1679
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16225
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       5
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1927
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   17523
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       6
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1904
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   17238
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       7
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1810
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   18721
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       8
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1731
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   18000
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       9
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1697
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15264
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =      10
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1640
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15796
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+
+
+   LOAD FACTOR =   0.5915E-01
+   ***************************
+
+
+             D I S P L A C E M E N T S
+
+     NODE X-DISPL.     Y-DISPL.     Z-DISPL.     XX-ROT.      YY-ROT.      ZZ-ROT.
+
+
+ MINIMUM/MAXIMUM DISPLACEMENTS
+
+  NODE     13722        56458        52636            0            0            0
+  MIN.  -1.23958E-03 -2.17380E-04 -2.29668E-04   0.0000       0.0000       0.0000    
+
+  NODE     14015        13826        13826            0            0            0
+  MAX.   7.04061E-03  6.79245E-02  7.06030E-02   0.0000       0.0000       0.0000    
+
+ MAXIMUM RESULTANT DISPLACEMENT
+
+  NODE     13826
+  MAX.   9.81726E-02
+
+
+         R E A C T I O N   F O R C E
+
+  TOTAL   CSYS         FX             FY             FZ
+           0       -39.47         -2.631         -2.631    
+
+ TOTAL STRAIN ENERGY. . . . . . . . . . . =  0.334725E+00
+
+
+
+********************************************************************************
+ MAXIMUM NODAL VON MISES STRESS & ERROR ESTIMATE FOR LOAD CASE   1
+********************************************************************************
+
+  NODE     67248
+  MAX.     0.13639E+09
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Results) . =    4093
+
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Prep) . . .=       0
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1665
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16246
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1897
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   18135
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       2
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    2228
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   12711
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Prep) . . .=       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1722
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14486
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       3
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1930
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16276
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       2
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    2170
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   17862
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       3
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       3
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    2098
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   17423
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       3
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       4
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1734
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   19422
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       5
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1737
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16298
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       6
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1886
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16850
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       7
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1748
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14833
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       8
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1778
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15715
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       9
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1869
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   17166
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =      10
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1744
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15807
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Prep) . . .=       0
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1802
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15417
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1854
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   19215
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       2
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1732
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16153
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       3
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1847
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15795
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       4
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1757
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14957
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       5
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1888
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   17578
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       6
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1746
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15007
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       7
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1827
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16756
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       8
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1806
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14526
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       9
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1928
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16903
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =      10
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1928
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16145
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Prep) . . .=       0
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1736
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15984
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1747
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   17301
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       2
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1768
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15046
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       3
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1882
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15088
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       4
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1763
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15476
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       5
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1858
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   17281
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       6
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1754
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16399
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       7
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1774
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15892
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       8
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1743
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14450
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       9
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1980
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15753
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =      10
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1721
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16909
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Prep) . . .=       0
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1725
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   17629
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1797
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16217
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       2
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1915
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15487
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       3
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1727
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   18878
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       4
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1790
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   19744
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       5
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1997
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16436
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       6
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    2041
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16764
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       7
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1897
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   17295
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       8
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1759
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16211
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       9
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1787
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15884
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =      10
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1790
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16981
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+
+
+   LOAD FACTOR =   0.1094E+00
+   ***************************
+
+
+             D I S P L A C E M E N T S
+
+     NODE X-DISPL.     Y-DISPL.     Z-DISPL.     XX-ROT.      YY-ROT.      ZZ-ROT.
+
+
+ MINIMUM/MAXIMUM DISPLACEMENTS
+
+  NODE     50488        56458        55872            0            0            0
+  MIN.  -2.30005E-03 -7.06563E-04 -7.65543E-04   0.0000       0.0000       0.0000    
+
+  NODE     15506        13826        13826            0            0            0
+  MAX.   7.33750E-02  0.22571      0.24170       0.0000       0.0000       0.0000    
+
+ MAXIMUM RESULTANT DISPLACEMENT
+
+  NODE     13826
+  MAX.   0.33873    
+
+
+         R E A C T I O N   F O R C E
+
+  TOTAL   CSYS         FX             FY             FZ
+           0       -73.01         -4.867         -4.867    
+
+ TOTAL STRAIN ENERGY. . . . . . . . . . . =  0.433721E+01
+
+
+
+********************************************************************************
+ MAXIMUM NODAL VON MISES STRESS & ERROR ESTIMATE FOR LOAD CASE   1
+********************************************************************************
+
+  NODE     77668
+  MAX.     0.42962E+09
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Results) . =    2239
+
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Prep) . . .=       0
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1818
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   17484
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1868
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   13978
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       2
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1698
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14311
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       3
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1681
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15592
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       4
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1741
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14873
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       5
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1806
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16641
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       6
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1751
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   17871
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       7
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    2162
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15014
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       8
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    3623
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15606
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       9
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1649
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15161
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =      10
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1689
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   13850
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Prep) . . .=       0
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1696
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16335
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1716
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15698
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       2
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1690
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16395
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       3
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1747
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15823
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       4
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1735
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14875
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       5
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1893
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   17110
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       6
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1697
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16760
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       7
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1728
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15586
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       8
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1722
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14183
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       9
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1888
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14995
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =      10
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1711
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   13767
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Prep) . . .=       0
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1703
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16154
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1713
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15307
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       2
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1657
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16331
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       3
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1723
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15922
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       4
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1706
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16373
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       5
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1711
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   17549
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       6
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1685
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14706
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       7
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1731
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14367
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       8
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1734
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16823
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       9
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1742
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15245
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =      10
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1762
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16299
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+
+
+   LOAD FACTOR =   0.1729E+00
+   ***************************
+
+
+             D I S P L A C E M E N T S
+
+     NODE X-DISPL.     Y-DISPL.     Z-DISPL.     XX-ROT.      YY-ROT.      ZZ-ROT.
+
+
+ MINIMUM/MAXIMUM DISPLACEMENTS
+
+  NODE     52317        56458        55872            0            0            0
+  MIN.  -3.47374E-03 -1.36197E-03 -1.48835E-03   0.0000       0.0000       0.0000    
+
+  NODE     13826        13826        13826            0            0            0
+  MAX.   0.25993      0.39348      0.42933       0.0000       0.0000       0.0000    
+
+ MAXIMUM RESULTANT DISPLACEMENT
+
+  NODE     13826
+  MAX.   0.63775    
+
+
+         R E A C T I O N   F O R C E
+
+  TOTAL   CSYS         FX             FY             FZ
+           0       -115.4         -7.692         -7.692    
+
+ TOTAL STRAIN ENERGY. . . . . . . . . . . =  0.187254E+02
+
+
+
+********************************************************************************
+ MAXIMUM NODAL VON MISES STRESS & ERROR ESTIMATE FOR LOAD CASE   1
+********************************************************************************
+
+  NODE     77668
+  MAX.     0.81425E+09
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Results) . =    2173
+
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Prep) . . .=       0
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1706
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16003
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1707
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   18052
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       2
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1721
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   18047
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       3
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1727
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   13920
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       4
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1698
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15215
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       5
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1852
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16617
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       6
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1709
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   18151
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       7
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1720
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16352
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       8
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1713
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14375
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       9
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1814
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15647
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =      10
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1708
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14924
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Prep) . . .=       0
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1728
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14831
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    2435
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   12901
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Prep) . . .=       0
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1847
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15733
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1682
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16129
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       2
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1685
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   12765
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Prep) . . .=       0
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1658
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   13442
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1812
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14913
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       2
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1658
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15867
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       3
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1678
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   12543
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Prep) . . .=       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1642
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   13216
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1676
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15224
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       2
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1667
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   13352
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       3
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1681
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   13853
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       4
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1673
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15427
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Prep) . . .=       0
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1677
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14717
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1697
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15412
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       2
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1686
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   13995
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       3
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1665
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   14251
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       4
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1691
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   11304
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Prep) . . .=       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1641
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15494
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       1
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1683
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   16580
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       1
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       2
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1702
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   15355
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       3
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1664
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   13746
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Convrg chk)=       2
+
+     ***** ITERATION NUMBER ***** . . . . . . . . =       4
+     TIME FOR AL CONTACT (AND/OR LRG DISP) OPERATIONS (Multiplier)=       0
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX . . . . . =    1661
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . . . . . . .=   11471
+
+   SOLVER TYPE ACTUALLY USED . . . . . . . . . .(FISOL)  =           4
+      EQ. 0, DIRECT SPARSE SOLVER                         
+      EQ. 1, DIRECT SKYLINE SOLVER                        
+      EQ. 2, ITERATIVE SOLVER                             
+      EQ. 3, EXPLICIT INTEGRATION                         
+      EQ. 4, LARGE PROBLEM DIRECT SPARSE SOLVER           
+      EQ. 5, INTEL DIRECT SPARSE SOLVER                   
+      EQ. 6, INTEL NETWORK SPARSE SOLVER                  
+
+
+  S O L U T I O N   T I M E   L O G   I N   S E C
+            FOR PROBLEM
+     TIME FOR INPUT PHASE  . . . . . . . . . . . . . . =       3
+     TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX=     256
+     TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . =    2276
+     TIME FOR AL CONTACT (AND/OR LARGE DISP) OPERATIONS=       8
+     TIME FOR REACTION FORCE & DISP UPDATE TO POST . . =       0
+     TIME FOR STRESS CALCULATION . . . . . . . . . . . =       0
+     TIME FOR LOAD CASE SOLUTIONS  . . . . . . . . . . =       0
+      T O T A L   S O L U T I O N   T I M E  . . . . . =    2545
+
+
+
+T O T A L   S O L U T I O N   T I M E (sec) . . . . =    2545
+   MAXIMUM MEMORY USED IN MEGABYTES . . . . . . (MAXMB)  =        1097
+

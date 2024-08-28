@@ -1,0 +1,16 @@
+[StartTime]
+Coupling_Assembly-G-Loading.MFC=5m:59s
+[SolverState]
+Coupling_Assembly-G-Loading.MFC=2
+[MainFrame]
+Coupling_Assembly-G-Loading.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+Coupling_Assembly-G-Loading.MFC=No
+[SolverType]
+Coupling_Assembly-G-Loading.MFC=Linear Analysis
+[StudyType]
+Coupling_Assembly-G-Loading.MFC=0
+[StudyName]
+Coupling_Assembly-G-Loading.MFC=G-Loading
+[Solver]
+Coupling_Assembly-G-Loading.MFC=Sparse
